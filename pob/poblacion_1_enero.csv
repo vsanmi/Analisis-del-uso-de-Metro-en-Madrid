@@ -1,0 +1,919 @@
+﻿fecha;cod_municipio;municipio;cod_distrito;distrito;cod_barrio;barrio;num_personas;num_personas_hombres;num_personas_mujeres
+1 de enero de 2023;28079;Madrid;1; Centro;1; Centro;139687;70770;68917
+1 de enero de 2023;28079;Madrid;2; Arganzuela;2; Arganzuela;153304;71754;81550
+1 de enero de 2023;28079;Madrid;3; Retiro;3; Retiro;117918;53458;64460
+1 de enero de 2023;28079;Madrid;4; Salamanca;4; Salamanca;145702;64452;81250
+1 de enero de 2023;28079;Madrid;5; Chamartín;5; Chamartín;144796;65245;79551
+1 de enero de 2023;28079;Madrid;6; Tetuán;6; Tetuán;160002;72938;87064
+1 de enero de 2023;28079;Madrid;7; Chamberí;7; Chamberí;138204;61149;77055
+1 de enero de 2023;28079;Madrid;8; Fuencarral-El Pardo;8; Fuencarral-El Pardo;248443;116944;131499
+1 de enero de 2023;28079;Madrid;9; Moncloa-Aravaca;9; Moncloa-Aravaca;121757;56357;65400
+1 de enero de 2023;28079;Madrid;10; Latina;10; Latina;241672;112093;129579
+1 de enero de 2023;28079;Madrid;11; Carabanchel;11; Carabanchel;262339;122632;139707
+1 de enero de 2023;28079;Madrid;12; Usera;12; Usera;142746;67538;75208
+1 de enero de 2023;28079;Madrid;13; Puente de Vallecas;13; Puente de Vallecas;241603;114542;127061
+1 de enero de 2023;28079;Madrid;14; Moratalaz;14; Moratalaz;92814;42212;50602
+1 de enero de 2023;28079;Madrid;15; Ciudad Lineal;15; Ciudad Lineal;220345;100759;119586
+1 de enero de 2023;28079;Madrid;16; Hortaleza;16; Hortaleza;198391;94100;104291
+1 de enero de 2023;28079;Madrid;17; Villaverde;17; Villaverde;159038;76131;82907
+1 de enero de 2023;28079;Madrid;18; Villa de Vallecas;18; Villa de Vallecas;117501;56726;60775
+1 de enero de 2023;28079;Madrid;19; Vicálvaro;19; Vicálvaro;83804;40580;43224
+1 de enero de 2023;28079;Madrid;20; San Blas-Canillejas;20; San Blas-Canillejas;161219;76154;85065
+1 de enero de 2023;28079;Madrid;21; Barajas;21; Barajas;48646;23332;25314
+1 de enero de 2023;28079;Madrid;1; Centro;11;Palacio;23501;11557;11944
+1 de enero de 2023;28079;Madrid;1; Centro;12;Embajadores;46204;24094;22110
+1 de enero de 2023;28079;Madrid;1; Centro;13;Cortes;10816;5350;5466
+1 de enero de 2023;28079;Madrid;1; Centro;14;Justicia;18219;9261;8958
+1 de enero de 2023;28079;Madrid;1; Centro;15;Universidad;32783;16269;16514
+1 de enero de 2023;28079;Madrid;1; Centro;16;Sol;8164;4239;3925
+1 de enero de 2023;28079;Madrid;2; Arganzuela;21;Imperial;22385;10421;11964
+1 de enero de 2023;28079;Madrid;2; Arganzuela;22;Acacias;36069;16616;19453
+1 de enero de 2023;28079;Madrid;2; Arganzuela;23;Chopera;19761;8992;10769
+1 de enero de 2023;28079;Madrid;2; Arganzuela;24;Legazpi;19468;9508;9960
+1 de enero de 2023;28079;Madrid;2; Arganzuela;25;Delicias;28575;13463;15112
+1 de enero de 2023;28079;Madrid;2; Arganzuela;26;PalosdeMoguer;25097;11797;13300
+1 de enero de 2023;28079;Madrid;2; Arganzuela;27;Atocha;1949;957;992
+1 de enero de 2023;28079;Madrid;3; Retiro;31;Pacífico;33027;14809;18218
+1 de enero de 2023;28079;Madrid;3; Retiro;32;Adelfas;18832;8699;10133
+1 de enero de 2023;28079;Madrid;3; Retiro;33;Estrella;22649;10393;12256
+1 de enero de 2023;28079;Madrid;3; Retiro;34;Ibiza;21492;9568;11924
+1 de enero de 2023;28079;Madrid;3; Retiro;35;LosJerónimos;6825;3177;3648
+1 de enero de 2023;28079;Madrid;3; Retiro;36;NiñoJesús;15093;6812;8281
+1 de enero de 2023;28079;Madrid;4; Salamanca;41;Recoletos;15444;6966;8478
+1 de enero de 2023;28079;Madrid;4; Salamanca;42;Goya;29477;12872;16605
+1 de enero de 2023;28079;Madrid;4; Salamanca;43;FuentedelBerro;20929;9129;11800
+1 de enero de 2023;28079;Madrid;4; Salamanca;44;Guindalera;41964;19006;22958
+1 de enero de 2023;28079;Madrid;4; Salamanca;45;Lista;20969;9056;11913
+1 de enero de 2023;28079;Madrid;4; Salamanca;46;Castellana;16919;7423;9496
+1 de enero de 2023;28079;Madrid;5; Chamartín;51;ElViso;17274;7810;9464
+1 de enero de 2023;28079;Madrid;5; Chamartín;52;Prosperidad;36027;16072;19955
+1 de enero de 2023;28079;Madrid;5; Chamartín;53;CiudadJardín;18513;8234;10279
+1 de enero de 2023;28079;Madrid;5; Chamartín;54;Hispanoamérica;31470;14159;17311
+1 de enero de 2023;28079;Madrid;5; Chamartín;55;NuevaEspaña;24466;11050;13416
+1 de enero de 2023;28079;Madrid;5; Chamartín;56;Castilla;17046;7920;9126
+1 de enero de 2023;28079;Madrid;6; Tetuán;61;BellasVistas;29355;13428;15927
+1 de enero de 2023;28079;Madrid;6; Tetuán;62;CuatroCaminos;34753;15537;19216
+1 de enero de 2023;28079;Madrid;6; Tetuán;63;Castillejos;20570;9239;11331
+1 de enero de 2023;28079;Madrid;6; Tetuán;64;Almenara;23057;10688;12369
+1 de enero de 2023;28079;Madrid;6; Tetuán;65;Valdeacederas;26573;12442;14131
+1 de enero de 2023;28079;Madrid;6; Tetuán;66;Berruguete;25694;11604;14090
+1 de enero de 2023;28079;Madrid;7; Chamberí;71;Gaztambide;22959;10157;12802
+1 de enero de 2023;28079;Madrid;7; Chamberí;72;Arapiles;24190;10831;13359
+1 de enero de 2023;28079;Madrid;7; Chamberí;73;Trafalgar;24621;11147;13474
+1 de enero de 2023;28079;Madrid;7; Chamberí;74;Almagro;19418;8567;10851
+1 de enero de 2023;28079;Madrid;7; Chamberí;75;RíosRosas;27163;11828;15335
+1 de enero de 2023;28079;Madrid;7; Chamberí;76;Vallehermoso;19853;8619;11234
+1 de enero de 2023;28079;Madrid;8; Fuencarral-El Pardo;81;ElPardo;3421;1716;1705
+1 de enero de 2023;28079;Madrid;8; Fuencarral-El Pardo;82;Fuentelarreina;3410;1559;1851
+1 de enero de 2023;28079;Madrid;8; Fuencarral-El Pardo;83;Peñagrande;44341;20597;23744
+1 de enero de 2023;28079;Madrid;8; Fuencarral-El Pardo;84;Pilar;45610;20720;24890
+1 de enero de 2023;28079;Madrid;8; Fuencarral-El Pardo;85;LaPaz;32192;14964;17228
+1 de enero de 2023;28079;Madrid;8; Fuencarral-El Pardo;86;Valverde;64757;30851;33906
+1 de enero de 2023;28079;Madrid;8; Fuencarral-El Pardo;87;Mirasierra;35676;17160;18516
+1 de enero de 2023;28079;Madrid;8; Fuencarral-El Pardo;88;ElGoloso;19036;9377;9659
+1 de enero de 2023;28079;Madrid;9; Moncloa-Aravaca;91;CasadeCampo;12767;5958;6809
+1 de enero de 2023;28079;Madrid;9; Moncloa-Aravaca;92;Argüelles;24497;11207;13290
+1 de enero de 2023;28079;Madrid;9; Moncloa-Aravaca;93;CiudadUniversitaria;16364;7603;8761
+1 de enero de 2023;28079;Madrid;9; Moncloa-Aravaca;94;Valdezarza;30484;14001;16483
+1 de enero de 2023;28079;Madrid;9; Moncloa-Aravaca;95;Valdemarín;7156;3339;3817
+1 de enero de 2023;28079;Madrid;9; Moncloa-Aravaca;96;ElPlantío;3044;1413;1631
+1 de enero de 2023;28079;Madrid;9; Moncloa-Aravaca;97;Aravaca;27445;12836;14609
+1 de enero de 2023;28079;Madrid;10; Latina;101;LosCármenes;17903;8484;9419
+1 de enero de 2023;28079;Madrid;10; Latina;102;PuertadelÁngel;43292;20165;23127
+1 de enero de 2023;28079;Madrid;10; Latina;103;Lucero;36749;17156;19593
+1 de enero de 2023;28079;Madrid;10; Latina;104;Aluche;66588;30384;36204
+1 de enero de 2023;28079;Madrid;10; Latina;105;Campamento;19750;9111;10639
+1 de enero de 2023;28079;Madrid;10; Latina;106;CuatroVientos;6122;3068;3054
+1 de enero de 2023;28079;Madrid;10; Latina;107;Águilas;51268;23725;27543
+1 de enero de 2023;28079;Madrid;11; Carabanchel;111;Comillas;22721;10491;12230
+1 de enero de 2023;28079;Madrid;11; Carabanchel;112;Opañel;33883;15556;18327
+1 de enero de 2023;28079;Madrid;11; Carabanchel;113;SanIsidro;40368;18969;21399
+1 de enero de 2023;28079;Madrid;11; Carabanchel;114;VistaAlegre;47727;21823;25904
+1 de enero de 2023;28079;Madrid;11; Carabanchel;115;PuertaBonita;36798;17349;19449
+1 de enero de 2023;28079;Madrid;11; Carabanchel;116;Buenavista;49151;23733;25418
+1 de enero de 2023;28079;Madrid;11; Carabanchel;117;Abrantes;31691;14711;16980
+1 de enero de 2023;28079;Madrid;12; Usera;121;Orcasitas;23085;10900;12185
+1 de enero de 2023;28079;Madrid;12; Usera;122;Orcasur;14390;6987;7403
+1 de enero de 2023;28079;Madrid;12; Usera;123;SanFermín;23598;11246;12352
+1 de enero de 2023;28079;Madrid;12; Usera;124;Almendrales;22834;10755;12079
+1 de enero de 2023;28079;Madrid;12; Usera;125;Moscardó;26579;12531;14048
+1 de enero de 2023;28079;Madrid;12; Usera;126;Zofío;14382;6681;7701
+1 de enero de 2023;28079;Madrid;12; Usera;127;Pradolongo;17878;8438;9440
+1 de enero de 2023;28079;Madrid;13; Puente de Vallecas;131;Entrevías;35399;16976;18423
+1 de enero de 2023;28079;Madrid;13; Puente de Vallecas;132;SanDiego;45104;21593;23511
+1 de enero de 2023;28079;Madrid;13; Puente de Vallecas;133;PalomerasBajas;40477;18947;21530
+1 de enero de 2023;28079;Madrid;13; Puente de Vallecas;134;PalomerasSureste;43162;20491;22671
+1 de enero de 2023;28079;Madrid;13; Puente de Vallecas;135;Portazgo;28741;13471;15270
+1 de enero de 2023;28079;Madrid;13; Puente de Vallecas;136;Numancia;48720;23064;25656
+1 de enero de 2023;28079;Madrid;14; Moratalaz;141;Pavones;8814;4035;4779
+1 de enero de 2023;28079;Madrid;14; Moratalaz;142;Horcajo;6339;3029;3310
+1 de enero de 2023;28079;Madrid;14; Moratalaz;143;Marroquina;26120;11962;14158
+1 de enero de 2023;28079;Madrid;14; Moratalaz;144;MediaLegua;17323;7828;9495
+1 de enero de 2023;28079;Madrid;14; Moratalaz;145;Fontarrón;17333;7876;9457
+1 de enero de 2023;28079;Madrid;14; Moratalaz;146;Vinateros;16885;7482;9403
+1 de enero de 2023;28079;Madrid;15; Ciudad Lineal;151;Ventas;50218;22868;27350
+1 de enero de 2023;28079;Madrid;15; Ciudad Lineal;152;PuebloNuevo;62840;28982;33858
+1 de enero de 2023;28079;Madrid;15; Ciudad Lineal;153;Quintana;25469;11449;14020
+1 de enero de 2023;28079;Madrid;15; Ciudad Lineal;154;Concepción;20941;9402;11539
+1 de enero de 2023;28079;Madrid;15; Ciudad Lineal;155;SanPascual;18327;8349;9978
+1 de enero de 2023;28079;Madrid;15; Ciudad Lineal;156;SanJuanBautista;12445;5813;6632
+1 de enero de 2023;28079;Madrid;15; Ciudad Lineal;157;Colina;6569;2973;3596
+1 de enero de 2023;28079;Madrid;15; Ciudad Lineal;158;Atalaya;1622;691;931
+1 de enero de 2023;28079;Madrid;15; Ciudad Lineal;159;Costillares;21914;10232;11682
+1 de enero de 2023;28079;Madrid;16; Hortaleza;161;Palomas;6922;3404;3518
+1 de enero de 2023;28079;Madrid;16; Hortaleza;162;Piovera;15041;7211;7830
+1 de enero de 2023;28079;Madrid;16; Hortaleza;163;Canillas;39786;18485;21301
+1 de enero de 2023;28079;Madrid;16; Hortaleza;164;PinardelRey;52031;23825;28206
+1 de enero de 2023;28079;Madrid;16; Hortaleza;165;ApóstolSantiago;15435;7344;8091
+1 de enero de 2023;28079;Madrid;16; Hortaleza;166;Valdefuentes;69176;33831;35345
+1 de enero de 2023;28079;Madrid;17; Villaverde;171;VillaverdeAlto,CascoHistóricodeVillaverde;47817;22826;24991
+1 de enero de 2023;28079;Madrid;17; Villaverde;172;SanCristóbal;17270;8586;8684
+1 de enero de 2023;28079;Madrid;17; Villaverde;173;Butarque;21316;10306;11010
+1 de enero de 2023;28079;Madrid;17; Villaverde;174;LosRosales;37808;18121;19687
+1 de enero de 2023;28079;Madrid;17; Villaverde;175;Ángeles;34827;16292;18535
+1 de enero de 2023;28079;Madrid;18; Villa de Vallecas;181;CascoHistóricodeVallecas;40417;19413;21004
+1 de enero de 2023;28079;Madrid;18; Villa de Vallecas;182;SantaEugenia;23876;11381;12495
+1 de enero de 2023;28079;Madrid;18; Villa de Vallecas;183;EnsanchedeVallecas;53208;25932;27276
+1 de enero de 2023;28079;Madrid;19; Vicálvaro;191;CascoHistóricodeVicálvaro;35519;17009;18510
+1 de enero de 2023;28079;Madrid;19; Vicálvaro;192;Valdebernardo;17471;8330;9141
+1 de enero de 2023;28079;Madrid;19; Vicálvaro;193;Valderrivas;17760;8589;9171
+1 de enero de 2023;28079;Madrid;19; Vicálvaro;194;ElCañaveral;13054;6652;6402
+1 de enero de 2023;28079;Madrid;20; San Blas-Canillejas;201;Simancas;28765;13560;15205
+1 de enero de 2023;28079;Madrid;20; San Blas-Canillejas;202;Hellín;9555;4375;5180
+1 de enero de 2023;28079;Madrid;20; San Blas-Canillejas;203;Amposta;9126;4258;4868
+1 de enero de 2023;28079;Madrid;20; San Blas-Canillejas;204;Arcos;25354;11932;13422
+1 de enero de 2023;28079;Madrid;20; San Blas-Canillejas;205;Rosas;30751;14727;16024
+1 de enero de 2023;28079;Madrid;20; San Blas-Canillejas;206;Rejas;17399;8495;8904
+1 de enero de 2023;28079;Madrid;20; San Blas-Canillejas;207;Canillejas;29067;13528;15539
+1 de enero de 2023;28079;Madrid;20; San Blas-Canillejas;208;ElSalvador;11202;5279;5923
+1 de enero de 2023;28079;Madrid;21; Barajas;211;AlamedadeOsuna;19685;9397;10288
+1 de enero de 2023;28079;Madrid;21; Barajas;212;Aeropuerto;1902;965;937
+1 de enero de 2023;28079;Madrid;21; Barajas;213;CascoHistóricodeBarajas;7384;3519;3865
+1 de enero de 2023;28079;Madrid;21; Barajas;214;Timón;12049;5702;6347
+1 de enero de 2023;28079;Madrid;21; Barajas;215;Corralejos;7626;3749;3877
+1 de enero de 2023;28079;Madrid;Todos;Todos;Todos;Todos;3339931;1559866;1780065
+1 de enero de 2022;28079;Madrid;1; Centro;1; Centro;139682;70986;68696
+1 de enero de 2022;28079;Madrid;2; Arganzuela;2; Arganzuela;152638;71466;81172
+1 de enero de 2022;28079;Madrid;3; Retiro;3; Retiro;117672;53445;64227
+1 de enero de 2022;28079;Madrid;4; Salamanca;4; Salamanca;145457;64343;81114
+1 de enero de 2022;28079;Madrid;5; Chamartín;5; Chamartín;144371;65080;79291
+1 de enero de 2022;28079;Madrid;6; Tetuán;6; Tetuán;157433;71636;85797
+1 de enero de 2022;28079;Madrid;7; Chamberí;7; Chamberí;137287;60867;76420
+1 de enero de 2022;28079;Madrid;8; Fuencarral-El Pardo;8; Fuencarral-El Pardo;246281;115955;130326
+1 de enero de 2022;28079;Madrid;9; Moncloa-Aravaca;9; Moncloa-Aravaca;120360;55501;64859
+1 de enero de 2022;28079;Madrid;10; Latina;10; Latina;237048;109928;127120
+1 de enero de 2022;28079;Madrid;11; Carabanchel;11; Carabanchel;255514;119381;136133
+1 de enero de 2022;28079;Madrid;12; Usera;12; Usera;140808;66532;74276
+1 de enero de 2022;28079;Madrid;13; Puente de Vallecas;13; Puente de Vallecas;235638;111748;123890
+1 de enero de 2022;28079;Madrid;14; Moratalaz;14; Moratalaz;92390;42095;50295
+1 de enero de 2022;28079;Madrid;15; Ciudad Lineal;15; Ciudad Lineal;213905;97357;116548
+1 de enero de 2022;28079;Madrid;16; Hortaleza;16; Hortaleza;195017;92532;102485
+1 de enero de 2022;28079;Madrid;17; Villaverde;17; Villaverde;153829;73598;80231
+1 de enero de 2022;28079;Madrid;18; Villa de Vallecas;18; Villa de Vallecas;114817;55580;59237
+1 de enero de 2022;28079;Madrid;19; Vicálvaro;19; Vicálvaro;79328;38437;40891
+1 de enero de 2022;28079;Madrid;20; San Blas-Canillejas;20; San Blas-Canillejas;158783;75082;83701
+1 de enero de 2022;28079;Madrid;21; Barajas;21; Barajas;48404;23275;25129
+1 de enero de 2022;28079;Madrid;1; Centro;11;Palacio;23417;11568;11849
+1 de enero de 2022;28079;Madrid;1; Centro;12;Embajadores;46444;24271;22173
+1 de enero de 2022;28079;Madrid;1; Centro;13;Cortes;10828;5345;5483
+1 de enero de 2022;28079;Madrid;1; Centro;14;Justicia;18015;9221;8794
+1 de enero de 2022;28079;Madrid;1; Centro;15;Universidad;32861;16349;16512
+1 de enero de 2022;28079;Madrid;1; Centro;16;Sol;8117;4232;3885
+1 de enero de 2022;28079;Madrid;2; Arganzuela;21;Imperial;22456;10436;12020
+1 de enero de 2022;28079;Madrid;2; Arganzuela;22;Acacias;36038;16635;19403
+1 de enero de 2022;28079;Madrid;2; Arganzuela;23;Chopera;19734;8994;10740
+1 de enero de 2022;28079;Madrid;2; Arganzuela;24;Legazpi;19469;9543;9926
+1 de enero de 2022;28079;Madrid;2; Arganzuela;25;Delicias;28243;13296;14947
+1 de enero de 2022;28079;Madrid;2; Arganzuela;26;PalosdeMoguer;25078;11766;13312
+1 de enero de 2022;28079;Madrid;2; Arganzuela;27;Atocha;1620;796;824
+1 de enero de 2022;28079;Madrid;3; Retiro;31;Pacífico;32745;14613;18132
+1 de enero de 2022;28079;Madrid;3; Retiro;32;Adelfas;18715;8675;10040
+1 de enero de 2022;28079;Madrid;3; Retiro;33;Estrella;22780;10514;12266
+1 de enero de 2022;28079;Madrid;3; Retiro;34;Ibiza;21377;9541;11836
+1 de enero de 2022;28079;Madrid;3; Retiro;35;LosJerónimos;6926;3237;3689
+1 de enero de 2022;28079;Madrid;3; Retiro;36;NiñoJesús;15129;6865;8264
+1 de enero de 2022;28079;Madrid;4; Salamanca;41;Recoletos;15647;7044;8603
+1 de enero de 2022;28079;Madrid;4; Salamanca;42;Goya;29441;12840;16601
+1 de enero de 2022;28079;Madrid;4; Salamanca;43;FuentedelBerro;20848;9087;11761
+1 de enero de 2022;28079;Madrid;4; Salamanca;44;Guindalera;41721;18925;22796
+1 de enero de 2022;28079;Madrid;4; Salamanca;45;Lista;20785;8997;11788
+1 de enero de 2022;28079;Madrid;4; Salamanca;46;Castellana;17015;7450;9565
+1 de enero de 2022;28079;Madrid;5; Chamartín;51;ElViso;17181;7767;9414
+1 de enero de 2022;28079;Madrid;5; Chamartín;52;Prosperidad;35963;16070;19893
+1 de enero de 2022;28079;Madrid;5; Chamartín;53;CiudadJardín;18410;8181;10229
+1 de enero de 2022;28079;Madrid;5; Chamartín;54;Hispanoamérica;31463;14188;17275
+1 de enero de 2022;28079;Madrid;5; Chamartín;55;NuevaEspaña;24366;11015;13351
+1 de enero de 2022;28079;Madrid;5; Chamartín;56;Castilla;16988;7859;9129
+1 de enero de 2022;28079;Madrid;6; Tetuán;61;BellasVistas;28995;13231;15764
+1 de enero de 2022;28079;Madrid;6; Tetuán;62;CuatroCaminos;34471;15436;19035
+1 de enero de 2022;28079;Madrid;6; Tetuán;63;Castillejos;20282;9097;11185
+1 de enero de 2022;28079;Madrid;6; Tetuán;64;Almenara;22594;10391;12203
+1 de enero de 2022;28079;Madrid;6; Tetuán;65;Valdeacederas;26140;12277;13863
+1 de enero de 2022;28079;Madrid;6; Tetuán;66;Berruguete;24951;11204;13747
+1 de enero de 2022;28079;Madrid;7; Chamberí;71;Gaztambide;22659;10058;12601
+1 de enero de 2022;28079;Madrid;7; Chamberí;72;Arapiles;23972;10770;13202
+1 de enero de 2022;28079;Madrid;7; Chamberí;73;Trafalgar;24495;11063;13432
+1 de enero de 2022;28079;Madrid;7; Chamberí;74;Almagro;19358;8557;10801
+1 de enero de 2022;28079;Madrid;7; Chamberí;75;RíosRosas;26901;11798;15103
+1 de enero de 2022;28079;Madrid;7; Chamberí;76;Vallehermoso;19902;8621;11281
+1 de enero de 2022;28079;Madrid;8; Fuencarral-El Pardo;81;ElPardo;3382;1683;1699
+1 de enero de 2022;28079;Madrid;8; Fuencarral-El Pardo;82;Fuentelarreina;3346;1513;1833
+1 de enero de 2022;28079;Madrid;8; Fuencarral-El Pardo;83;Peñagrande;43887;20379;23508
+1 de enero de 2022;28079;Madrid;8; Fuencarral-El Pardo;84;Pilar;45354;20645;24709
+1 de enero de 2022;28079;Madrid;8; Fuencarral-El Pardo;85;LaPaz;32346;15059;17287
+1 de enero de 2022;28079;Madrid;8; Fuencarral-El Pardo;86;Valverde;63651;30328;33323
+1 de enero de 2022;28079;Madrid;8; Fuencarral-El Pardo;87;Mirasierra;35240;16920;18320
+1 de enero de 2022;28079;Madrid;8; Fuencarral-El Pardo;88;ElGoloso;19075;9428;9647
+1 de enero de 2022;28079;Madrid;9; Moncloa-Aravaca;91;CasadeCampo;12804;5929;6875
+1 de enero de 2022;28079;Madrid;9; Moncloa-Aravaca;92;Argüelles;24165;11035;13130
+1 de enero de 2022;28079;Madrid;9; Moncloa-Aravaca;93;CiudadUniversitaria;16220;7489;8731
+1 de enero de 2022;28079;Madrid;9; Moncloa-Aravaca;94;Valdezarza;29802;13602;16200
+1 de enero de 2022;28079;Madrid;9; Moncloa-Aravaca;95;Valdemarín;7048;3283;3765
+1 de enero de 2022;28079;Madrid;9; Moncloa-Aravaca;96;ElPlantío;2998;1384;1614
+1 de enero de 2022;28079;Madrid;9; Moncloa-Aravaca;97;Aravaca;27323;12779;14544
+1 de enero de 2022;28079;Madrid;10; Latina;101;LosCármenes;17543;8302;9241
+1 de enero de 2022;28079;Madrid;10; Latina;102;PuertadelÁngel;41401;19113;22288
+1 de enero de 2022;28079;Madrid;10; Latina;103;Lucero;36062;16887;19175
+1 de enero de 2022;28079;Madrid;10; Latina;104;Aluche;65833;30086;35747
+1 de enero de 2022;28079;Madrid;10; Latina;105;Campamento;19337;8970;10367
+1 de enero de 2022;28079;Madrid;10; Latina;106;CuatroVientos;5966;2996;2970
+1 de enero de 2022;28079;Madrid;10; Latina;107;Águilas;50906;23574;27332
+1 de enero de 2022;28079;Madrid;11; Carabanchel;111;Comillas;22214;10230;11984
+1 de enero de 2022;28079;Madrid;11; Carabanchel;112;Opañel;33300;15283;18017
+1 de enero de 2022;28079;Madrid;11; Carabanchel;113;SanIsidro;39391;18500;20891
+1 de enero de 2022;28079;Madrid;11; Carabanchel;114;VistaAlegre;46474;21208;25266
+1 de enero de 2022;28079;Madrid;11; Carabanchel;115;PuertaBonita;35395;16647;18748
+1 de enero de 2022;28079;Madrid;11; Carabanchel;116;Buenavista;47815;23152;24663
+1 de enero de 2022;28079;Madrid;11; Carabanchel;117;Abrantes;30925;14361;16564
+1 de enero de 2022;28079;Madrid;12; Usera;121;Orcasitas;22996;10827;12169
+1 de enero de 2022;28079;Madrid;12; Usera;122;Orcasur;14250;6915;7335
+1 de enero de 2022;28079;Madrid;12; Usera;123;SanFermín;23460;11185;12275
+1 de enero de 2022;28079;Madrid;12; Usera;124;Almendrales;22499;10522;11977
+1 de enero de 2022;28079;Madrid;12; Usera;125;Moscardó;26139;12293;13846
+1 de enero de 2022;28079;Madrid;12; Usera;126;Zofío;14022;6571;7451
+1 de enero de 2022;28079;Madrid;12; Usera;127;Pradolongo;17442;8219;9223
+1 de enero de 2022;28079;Madrid;13; Puente de Vallecas;131;Entrevías;34690;16591;18099
+1 de enero de 2022;28079;Madrid;13; Puente de Vallecas;132;SanDiego;42910;20534;22376
+1 de enero de 2022;28079;Madrid;13; Puente de Vallecas;133;PalomerasBajas;39935;18722;21213
+1 de enero de 2022;28079;Madrid;13; Puente de Vallecas;134;PalomerasSureste;42540;20218;22322
+1 de enero de 2022;28079;Madrid;13; Puente de Vallecas;135;Portazgo;28249;13310;14939
+1 de enero de 2022;28079;Madrid;13; Puente de Vallecas;136;Numancia;47314;22373;24941
+1 de enero de 2022;28079;Madrid;14; Moratalaz;141;Pavones;8719;3968;4751
+1 de enero de 2022;28079;Madrid;14; Moratalaz;142;Horcajo;6354;3057;3297
+1 de enero de 2022;28079;Madrid;14; Moratalaz;143;Marroquina;26297;12113;14184
+1 de enero de 2022;28079;Madrid;14; Moratalaz;144;MediaLegua;17377;7845;9532
+1 de enero de 2022;28079;Madrid;14; Moratalaz;145;Fontarrón;17044;7746;9298
+1 de enero de 2022;28079;Madrid;14; Moratalaz;146;Vinateros;16599;7366;9233
+1 de enero de 2022;28079;Madrid;15; Ciudad Lineal;151;Ventas;47801;21500;26301
+1 de enero de 2022;28079;Madrid;15; Ciudad Lineal;152;PuebloNuevo;61935;28582;33353
+1 de enero de 2022;28079;Madrid;15; Ciudad Lineal;153;Quintana;24183;10748;13435
+1 de enero de 2022;28079;Madrid;15; Ciudad Lineal;154;Concepción;20440;9122;11318
+1 de enero de 2022;28079;Madrid;15; Ciudad Lineal;155;SanPascual;17546;7914;9632
+1 de enero de 2022;28079;Madrid;15; Ciudad Lineal;156;SanJuanBautista;12287;5731;6556
+1 de enero de 2022;28079;Madrid;15; Ciudad Lineal;157;Colina;6338;2865;3473
+1 de enero de 2022;28079;Madrid;15; Ciudad Lineal;158;Atalaya;1607;696;911
+1 de enero de 2022;28079;Madrid;15; Ciudad Lineal;159;Costillares;21768;10199;11569
+1 de enero de 2022;28079;Madrid;16; Hortaleza;161;Palomas;6933;3387;3546
+1 de enero de 2022;28079;Madrid;16; Hortaleza;162;Piovera;14948;7160;7788
+1 de enero de 2022;28079;Madrid;16; Hortaleza;163;Canillas;39708;18425;21283
+1 de enero de 2022;28079;Madrid;16; Hortaleza;164;PinardelRey;51844;23784;28060
+1 de enero de 2022;28079;Madrid;16; Hortaleza;165;ApóstolSantiago;15374;7343;8031
+1 de enero de 2022;28079;Madrid;16; Hortaleza;166;Valdefuentes;66210;32433;33777
+1 de enero de 2022;28079;Madrid;17; Villaverde;171;VillaverdeAlto,CascoHistóricodeVillaverde;46156;22013;24143
+1 de enero de 2022;28079;Madrid;17; Villaverde;172;SanCristóbal;16640;8223;8417
+1 de enero de 2022;28079;Madrid;17; Villaverde;173;Butarque;20813;10087;10726
+1 de enero de 2022;28079;Madrid;17; Villaverde;174;LosRosales;37319;17918;19401
+1 de enero de 2022;28079;Madrid;17; Villaverde;175;Ángeles;32901;15357;17544
+1 de enero de 2022;28079;Madrid;18; Villa de Vallecas;181;CascoHistóricodeVallecas;39578;18971;20607
+1 de enero de 2022;28079;Madrid;18; Villa de Vallecas;182;SantaEugenia;24110;11515;12595
+1 de enero de 2022;28079;Madrid;18; Villa de Vallecas;183;EnsanchedeVallecas;51129;25094;26035
+1 de enero de 2022;28079;Madrid;19; Vicálvaro;191;CascoHistóricodeVicálvaro;35086;16925;18161
+1 de enero de 2022;28079;Madrid;19; Vicálvaro;192;Valdebernardo;17431;8321;9110
+1 de enero de 2022;28079;Madrid;19; Vicálvaro;193;Valderrivas;17867;8666;9201
+1 de enero de 2022;28079;Madrid;19; Vicálvaro;194;ElCañaveral;8944;4525;4419
+1 de enero de 2022;28079;Madrid;20; San Blas-Canillejas;201;Simancas;28171;13290;14881
+1 de enero de 2022;28079;Madrid;20; San Blas-Canillejas;202;Hellín;9274;4271;5003
+1 de enero de 2022;28079;Madrid;20; San Blas-Canillejas;203;Amposta;8710;4062;4648
+1 de enero de 2022;28079;Madrid;20; San Blas-Canillejas;204;Arcos;24960;11724;13236
+1 de enero de 2022;28079;Madrid;20; San Blas-Canillejas;205;Rosas;30887;14840;16047
+1 de enero de 2022;28079;Madrid;20; San Blas-Canillejas;206;Rejas;16971;8270;8701
+1 de enero de 2022;28079;Madrid;20; San Blas-Canillejas;207;Canillejas;28541;13318;15223
+1 de enero de 2022;28079;Madrid;20; San Blas-Canillejas;208;ElSalvador;11269;5307;5962
+1 de enero de 2022;28079;Madrid;21; Barajas;211;AlamedadeOsuna;19662;9412;10250
+1 de enero de 2022;28079;Madrid;21; Barajas;212;Aeropuerto;1895;967;928
+1 de enero de 2022;28079;Madrid;21; Barajas;213;CascoHistóricodeBarajas;7351;3531;3820
+1 de enero de 2022;28079;Madrid;21; Barajas;214;Timón;11895;5622;6273
+1 de enero de 2022;28079;Madrid;21; Barajas;215;Corralejos;7601;3743;3858
+1 de enero de 2022;28079;Madrid;Todos;Todos;Todos;Todos;3286662;1534824;1751838
+1 de enero de 2021;28079;Madrid;1; Centro;1;Centro;141236;71881;69355
+1 de enero de 2021;28079;Madrid;2; Arganzuela;2;Arganzuela;154243;72000;82243
+1 de enero de 2021;28079;Madrid;3; Retiro;3;Retiro;118557;53800;64757
+1 de enero de 2021;28079;Madrid;4; Salamanca;4;Salamanca;146016;64540;81476
+1 de enero de 2021;28079;Madrid;5; Chamartín;5;Chamartín;145700;65599;80101
+1 de enero de 2021;28079;Madrid;6; Tetuán;6;Tetuán;159849;72752;87097
+1 de enero de 2021;28079;Madrid;7; Chamberí;7;Chamberí;138667;61313;77354
+1 de enero de 2021;28079;Madrid;8; Fuencarral-El Pardo;8;Fuencarral-ElPardo;247692;116520;131172
+1 de enero de 2021;28079;Madrid;9; Moncloa-Aravaca;9;Moncloa-Aravaca;120834;55588;65246
+1 de enero de 2021;28079;Madrid;10; Latina;10;Latina;240155;111209;128946
+1 de enero de 2021;28079;Madrid;11; Carabanchel;11;Carabanchel;258633;120600;138033
+1 de enero de 2021;28079;Madrid;12; Usera;12;Usera;142454;67230;75224
+1 de enero de 2021;28079;Madrid;13; Puente de Vallecas;13;PuentedeVallecas;239057;113355;125702
+1 de enero de 2021;28079;Madrid;14; Moratalaz;14;Moratalaz;93810;42662;51148
+1 de enero de 2021;28079;Madrid;15; Ciudad Lineal;15;CiudadLineal;216818;98514;118304
+1 de enero de 2021;28079;Madrid;16; Hortaleza;16;Hortaleza;193228;91585;101643
+1 de enero de 2021;28079;Madrid;17; Villaverde;17;Villaverde;154808;73947;80861
+1 de enero de 2021;28079;Madrid;18; Villa de Vallecas;18;VilladeVallecas;114733;55606;59127
+1 de enero de 2021;28079;Madrid;19; Vicálvaro;19;Vicálvaro;75485;36497;38988
+1 de enero de 2021;28079;Madrid;20; San Blas-Canillejas;20;SanBlas-Canillejas;160258;75788;84470
+1 de enero de 2021;28079;Madrid;21; Barajas;21;Barajas;50077;24171;25906
+1 de enero de 2021;28079;Madrid;1; Centro;11;Palacio;23584;11632;11952
+1 de enero de 2021;28079;Madrid;1; Centro;12;Embajadores;47238;24767;22471
+1 de enero de 2021;28079;Madrid;1; Centro;13;Cortes;10787;5379;5408
+1 de enero de 2021;28079;Madrid;1; Centro;14;Justicia;18208;9291;8917
+1 de enero de 2021;28079;Madrid;1; Centro;15;Universidad;33426;16692;16734
+1 de enero de 2021;28079;Madrid;1; Centro;16;Sol;7993;4120;3873
+1 de enero de 2021;28079;Madrid;2; Arganzuela;21;Imperial;22596;10446;12150
+1 de enero de 2021;28079;Madrid;2; Arganzuela;22;Acacias;36395;16741;19654
+1 de enero de 2021;28079;Madrid;2; Arganzuela;23;Chopera;20077;9118;10959
+1 de enero de 2021;28079;Madrid;2; Arganzuela;24;Legazpi;19572;9574;9998
+1 de enero de 2021;28079;Madrid;2; Arganzuela;25;Delicias;28374;13352;15022
+1 de enero de 2021;28079;Madrid;2; Arganzuela;26;PalosdeMoguer;25785;12059;13726
+1 de enero de 2021;28079;Madrid;2; Arganzuela;27;Atocha;1444;710;734
+1 de enero de 2021;28079;Madrid;3; Retiro;31;Pacífico;33067;14808;18259
+1 de enero de 2021;28079;Madrid;3; Retiro;32;Adelfas;18653;8610;10043
+1 de enero de 2021;28079;Madrid;3; Retiro;33;Estrella;23051;10636;12415
+1 de enero de 2021;28079;Madrid;3; Retiro;34;Ibiza;21558;9549;12009
+1 de enero de 2021;28079;Madrid;3; Retiro;35;LosJerónimos;6928;3232;3696
+1 de enero de 2021;28079;Madrid;3; Retiro;36;NiñoJesús;15300;6965;8335
+1 de enero de 2021;28079;Madrid;4; Salamanca;41;Recoletos;15629;7048;8581
+1 de enero de 2021;28079;Madrid;4; Salamanca;42;Goya;29479;12820;16659
+1 de enero de 2021;28079;Madrid;4; Salamanca;43;FuentedelBerro;20963;9155;11808
+1 de enero de 2021;28079;Madrid;4; Salamanca;44;Guindalera;41939;18991;22948
+1 de enero de 2021;28079;Madrid;4; Salamanca;45;Lista;20864;9029;11835
+1 de enero de 2021;28079;Madrid;4; Salamanca;46;Castellana;17142;7497;9645
+1 de enero de 2021;28079;Madrid;5; Chamartín;51;ElViso;17349;7811;9538
+1 de enero de 2021;28079;Madrid;5; Chamartín;52;Prosperidad;36303;16219;20084
+1 de enero de 2021;28079;Madrid;5; Chamartín;53;CiudadJardín;18618;8306;10312
+1 de enero de 2021;28079;Madrid;5; Chamartín;54;Hispanoamérica;31642;14214;17428
+1 de enero de 2021;28079;Madrid;5; Chamartín;55;NuevaEspaña;24697;11150;13547
+1 de enero de 2021;28079;Madrid;5; Chamartín;56;Castilla;17091;7899;9192
+1 de enero de 2021;28079;Madrid;6; Tetuán;61;BellasVistas;29465;13461;16004
+1 de enero de 2021;28079;Madrid;6; Tetuán;62;CuatroCaminos;34817;15717;19100
+1 de enero de 2021;28079;Madrid;6; Tetuán;63;Castillejos;20541;9217;11324
+1 de enero de 2021;28079;Madrid;6; Tetuán;64;Almenara;22738;10470;12268
+1 de enero de 2021;28079;Madrid;6; Tetuán;65;Valdeacederas;26625;12414;14211
+1 de enero de 2021;28079;Madrid;6; Tetuán;66;Berruguete;25663;11473;14190
+1 de enero de 2021;28079;Madrid;7; Chamberí;71;Gaztambide;22948;10106;12842
+1 de enero de 2021;28079;Madrid;7; Chamberí;72;Arapiles;24260;10884;13376
+1 de enero de 2021;28079;Madrid;7; Chamberí;73;Trafalgar;24628;11029;13599
+1 de enero de 2021;28079;Madrid;7; Chamberí;74;Almagro;19546;8667;10879
+1 de enero de 2021;28079;Madrid;7; Chamberí;75;RíosRosas;27216;11977;15239
+1 de enero de 2021;28079;Madrid;7; Chamberí;76;Vallehermoso;20069;8650;11419
+1 de enero de 2021;28079;Madrid;8; Fuencarral-El Pardo;81;ElPardo;3443;1723;1720
+1 de enero de 2021;28079;Madrid;8; Fuencarral-El Pardo;82;Fuentelarreina;3356;1511;1845
+1 de enero de 2021;28079;Madrid;8; Fuencarral-El Pardo;83;Peñagrande;44383;20584;23799
+1 de enero de 2021;28079;Madrid;8; Fuencarral-El Pardo;84;Pilar;45970;20963;25007
+1 de enero de 2021;28079;Madrid;8; Fuencarral-El Pardo;85;LaPaz;33005;15368;17637
+1 de enero de 2021;28079;Madrid;8; Fuencarral-El Pardo;86;Valverde;64042;30504;33538
+1 de enero de 2021;28079;Madrid;8; Fuencarral-El Pardo;87;Mirasierra;34565;16520;18045
+1 de enero de 2021;28079;Madrid;8; Fuencarral-El Pardo;88;ElGoloso;18928;9347;9581
+1 de enero de 2021;28079;Madrid;9; Moncloa-Aravaca;91;CasadeCampo;13066;6058;7008
+1 de enero de 2021;28079;Madrid;9; Moncloa-Aravaca;92;Argüelles;24162;10974;13188
+1 de enero de 2021;28079;Madrid;9; Moncloa-Aravaca;93;CiudadUniversitaria;16175;7417;8758
+1 de enero de 2021;28079;Madrid;9; Moncloa-Aravaca;94;Valdezarza;30091;13744;16347
+1 de enero de 2021;28079;Madrid;9; Moncloa-Aravaca;95;Valdemarín;6856;3163;3693
+1 de enero de 2021;28079;Madrid;9; Moncloa-Aravaca;96;ElPlantío;2916;1336;1580
+1 de enero de 2021;28079;Madrid;9; Moncloa-Aravaca;97;Aravaca;27568;12896;14672
+1 de enero de 2021;28079;Madrid;10; Latina;101;LosCármenes;17577;8338;9239
+1 de enero de 2021;28079;Madrid;10; Latina;102;PuertadelÁngel;41982;19344;22638
+1 de enero de 2021;28079;Madrid;10; Latina;103;Lucero;36576;17056;19520
+1 de enero de 2021;28079;Madrid;10; Latina;104;Aluche;66968;30626;36342
+1 de enero de 2021;28079;Madrid;10; Latina;105;Campamento;19579;9029;10550
+1 de enero de 2021;28079;Madrid;10; Latina;106;CuatroVientos;5874;2926;2948
+1 de enero de 2021;28079;Madrid;10; Latina;107;Águilas;51599;23890;27709
+1 de enero de 2021;28079;Madrid;11; Carabanchel;111;Comillas;22695;10471;12224
+1 de enero de 2021;28079;Madrid;11; Carabanchel;112;Opañel;33656;15385;18271
+1 de enero de 2021;28079;Madrid;11; Carabanchel;113;SanIsidro;39728;18584;21144
+1 de enero de 2021;28079;Madrid;11; Carabanchel;114;VistaAlegre;47082;21440;25642
+1 de enero de 2021;28079;Madrid;11; Carabanchel;115;PuertaBonita;35947;16868;19079
+1 de enero de 2021;28079;Madrid;11; Carabanchel;116;Buenavista;48008;23176;24832
+1 de enero de 2021;28079;Madrid;11; Carabanchel;117;Abrantes;31517;14676;16841
+1 de enero de 2021;28079;Madrid;12; Usera;121;Orcasitas;23095;10880;12215
+1 de enero de 2021;28079;Madrid;12; Usera;122;Orcasur;14141;6842;7299
+1 de enero de 2021;28079;Madrid;12; Usera;123;SanFermín;23838;11382;12456
+1 de enero de 2021;28079;Madrid;12; Usera;124;Almendrales;22516;10543;11973
+1 de enero de 2021;28079;Madrid;12; Usera;125;Moscardó;26623;12435;14188
+1 de enero de 2021;28079;Madrid;12; Usera;126;Zofío;14336;6733;7603
+1 de enero de 2021;28079;Madrid;12; Usera;127;Pradolongo;17905;8415;9490
+1 de enero de 2021;28079;Madrid;13; Puente de Vallecas;131;Entrevías;35239;16925;18314
+1 de enero de 2021;28079;Madrid;13; Puente de Vallecas;132;SanDiego;43574;20793;22781
+1 de enero de 2021;28079;Madrid;13; Puente de Vallecas;133;PalomerasBajas;40468;18959;21509
+1 de enero de 2021;28079;Madrid;13; Puente de Vallecas;134;PalomerasSureste;42924;20429;22495
+1 de enero de 2021;28079;Madrid;13; Puente de Vallecas;135;Portazgo;28736;13508;15228
+1 de enero de 2021;28079;Madrid;13; Puente de Vallecas;136;Numancia;48116;22741;25375
+1 de enero de 2021;28079;Madrid;14; Moratalaz;141;Pavones;8972;4081;4891
+1 de enero de 2021;28079;Madrid;14; Moratalaz;142;Horcajo;6371;3045;3326
+1 de enero de 2021;28079;Madrid;14; Moratalaz;143;Marroquina;26658;12289;14369
+1 de enero de 2021;28079;Madrid;14; Moratalaz;144;MediaLegua;17660;7992;9668
+1 de enero de 2021;28079;Madrid;14; Moratalaz;145;Fontarrón;17290;7841;9449
+1 de enero de 2021;28079;Madrid;14; Moratalaz;146;Vinateros;16859;7414;9445
+1 de enero de 2021;28079;Madrid;15; Ciudad Lineal;151;Ventas;48411;21721;26690
+1 de enero de 2021;28079;Madrid;15; Ciudad Lineal;152;PuebloNuevo;62731;28931;33800
+1 de enero de 2021;28079;Madrid;15; Ciudad Lineal;153;Quintana;24621;10931;13690
+1 de enero de 2021;28079;Madrid;15; Ciudad Lineal;154;Concepción;20727;9205;11522
+1 de enero de 2021;28079;Madrid;15; Ciudad Lineal;155;SanPascual;17823;8017;9806
+1 de enero de 2021;28079;Madrid;15; Ciudad Lineal;156;SanJuanBautista;12484;5828;6656
+1 de enero de 2021;28079;Madrid;15; Ciudad Lineal;157;Colina;6367;2857;3510
+1 de enero de 2021;28079;Madrid;15; Ciudad Lineal;158;Atalaya;1580;687;893
+1 de enero de 2021;28079;Madrid;15; Ciudad Lineal;159;Costillares;22074;10337;11737
+1 de enero de 2021;28079;Madrid;16; Hortaleza;161;Palomas;6891;3360;3531
+1 de enero de 2021;28079;Madrid;16; Hortaleza;162;Piovera;14835;7049;7786
+1 de enero de 2021;28079;Madrid;16; Hortaleza;163;Canillas;40281;18757;21524
+1 de enero de 2021;28079;Madrid;16; Hortaleza;164;PinardelRey;52494;24116;28378
+1 de enero de 2021;28079;Madrid;16; Hortaleza;165;ApóstolSantiago;15473;7338;8135
+1 de enero de 2021;28079;Madrid;16; Hortaleza;166;Valdefuentes;63254;30965;32289
+1 de enero de 2021;28079;Madrid;17; Villaverde;171;VillaverdeAlto,CascoHistóricodeVillaverde;46637;22180;24457
+1 de enero de 2021;28079;Madrid;17; Villaverde;172;SanCristóbal;16986;8345;8641
+1 de enero de 2021;28079;Madrid;17; Villaverde;173;Butarque;20722;10048;10674
+1 de enero de 2021;28079;Madrid;17; Villaverde;174;LosRosales;37790;18145;19645
+1 de enero de 2021;28079;Madrid;17; Villaverde;175;Ángeles;32673;15229;17444
+1 de enero de 2021;28079;Madrid;18; Villa de Vallecas;181;CascoHistóricodeVallecas;40241;19284;20957
+1 de enero de 2021;28079;Madrid;18; Villa de Vallecas;182;SantaEugenia;24288;11635;12653
+1 de enero de 2021;28079;Madrid;18; Villa de Vallecas;183;EnsanchedeVallecas;50204;24687;25517
+1 de enero de 2021;28079;Madrid;19; Vicálvaro;191;CascoHistóricodeVicálvaro;35548;17141;18407
+1 de enero de 2021;28079;Madrid;19; Vicálvaro;192;Valdebernardo;17546;8350;9196
+1 de enero de 2021;28079;Madrid;19; Vicálvaro;193;Valderrivas;17961;8752;9209
+1 de enero de 2021;28079;Madrid;19; Vicálvaro;194;ElCañaveral;4430;2254;2176
+1 de enero de 2021;28079;Madrid;20; San Blas-Canillejas;201;Simancas;28451;13460;14991
+1 de enero de 2021;28079;Madrid;20; San Blas-Canillejas;202;Hellín;9359;4300;5059
+1 de enero de 2021;28079;Madrid;20; San Blas-Canillejas;203;Amposta;8885;4091;4794
+1 de enero de 2021;28079;Madrid;20; San Blas-Canillejas;204;Arcos;24642;11610;13032
+1 de enero de 2021;28079;Madrid;20; San Blas-Canillejas;205;Rosas;31534;15121;16413
+1 de enero de 2021;28079;Madrid;20; San Blas-Canillejas;206;Rejas;17098;8284;8814
+1 de enero de 2021;28079;Madrid;20; San Blas-Canillejas;207;Canillejas;28925;13556;15369
+1 de enero de 2021;28079;Madrid;20; San Blas-Canillejas;208;ElSalvador;11364;5366;5998
+1 de enero de 2021;28079;Madrid;21; Barajas;211;AlamedadeOsuna;19657;9430;10227
+1 de enero de 2021;28079;Madrid;21; Barajas;212;Aeropuerto;1918;988;930
+1 de enero de 2021;28079;Madrid;21; Barajas;213;CascoHistóricodeBarajas;7504;3593;3911
+1 de enero de 2021;28079;Madrid;21; Barajas;214;Timón;13334;6379;6955
+1 de enero de 2021;28079;Madrid;21; Barajas;215;Corralejos;7664;3781;3883
+1 de enero de 2021;28079;Madrid;Todos;Todos;Todos;Todos;3312310;1545157;1767153
+1 de enero de 2020;28079;Madrid;1; Centro;1;Centro;140473;71127;69346
+1 de enero de 2020;28079;Madrid;2; Arganzuela;2;Arganzuela;155660;72600;83060
+1 de enero de 2020;28079;Madrid;3; Retiro;3;Retiro;120406;54517;65889
+1 de enero de 2020;28079;Madrid;4; Salamanca;4;Salamanca;147854;65220;82634
+1 de enero de 2020;28079;Madrid;5; Chamartín;5;Chamartín;147551;66424;81127
+1 de enero de 2020;28079;Madrid;6; Tetuán;6;Tetuán;161313;73358;87955
+1 de enero de 2020;28079;Madrid;7; Chamberí;7;Chamberí;140866;62136;78730
+1 de enero de 2020;28079;Madrid;8; Fuencarral-El Pardo;8;Fuencarral-ElPardo;249973;117640;132333
+1 de enero de 2020;28079;Madrid;9; Moncloa-Aravaca;9;Moncloa-Aravaca;121683;55975;65708
+1 de enero de 2020;28079;Madrid;10; Latina;10;Latina;242139;112282;129857
+1 de enero de 2020;28079;Madrid;11; Carabanchel;11;Carabanchel;260196;121317;138879
+1 de enero de 2020;28079;Madrid;12; Usera;12;Usera;142894;67346;75548
+1 de enero de 2020;28079;Madrid;13; Puente de Vallecas;13;PuentedeVallecas;240867;114235;126632
+1 de enero de 2020;28079;Madrid;14; Moratalaz;14;Moratalaz;95614;43585;52029
+1 de enero de 2020;28079;Madrid;15; Ciudad Lineal;15;CiudadLineal;219867;99966;119901
+1 de enero de 2020;28079;Madrid;16; Hortaleza;16;Hortaleza;193264;91659;101605
+1 de enero de 2020;28079;Madrid;17; Villaverde;17;Villaverde;154318;73639;80679
+1 de enero de 2020;28079;Madrid;18; Villa de Vallecas;18;VilladeVallecas;114512;55510;59002
+1 de enero de 2020;28079;Madrid;19; Vicálvaro;19;Vicálvaro;74048;35795;38253
+1 de enero de 2020;28079;Madrid;20; San Blas-Canillejas;20;SanBlas-Canillejas;161222;76252;84970
+1 de enero de 2020;28079;Madrid;21; Barajas;21;Barajas;50010;24149;25861
+1 de enero de 2020;28079;Madrid;1; Centro;11;Palacio;23593;11628;11965
+1 de enero de 2020;28079;Madrid;1; Centro;12;Embajadores;47048;24497;22551
+1 de enero de 2020;28079;Madrid;1; Centro;13;Cortes;10771;5365;5406
+1 de enero de 2020;28079;Madrid;1; Centro;14;Justicia;18021;9161;8860
+1 de enero de 2020;28079;Madrid;1; Centro;15;Universidad;33418;16581;16837
+1 de enero de 2020;28079;Madrid;1; Centro;16;Sol;7622;3895;3727
+1 de enero de 2020;28079;Madrid;2; Arganzuela;21;Imperial;22908;10593;12315
+1 de enero de 2020;28079;Madrid;2; Arganzuela;22;Acacias;36922;17045;19877
+1 de enero de 2020;28079;Madrid;2; Arganzuela;23;Chopera;20287;9199;11088
+1 de enero de 2020;28079;Madrid;2; Arganzuela;24;Legazpi;19810;9671;10139
+1 de enero de 2020;28079;Madrid;2; Arganzuela;25;Delicias;28233;13216;15017
+1 de enero de 2020;28079;Madrid;2; Arganzuela;26;PalosdeMoguer;26289;12276;14013
+1 de enero de 2020;28079;Madrid;2; Arganzuela;27;Atocha;1211;600;611
+1 de enero de 2020;28079;Madrid;3; Retiro;31;Pacífico;33767;15108;18659
+1 de enero de 2020;28079;Madrid;3; Retiro;32;Adelfas;18785;8655;10130
+1 de enero de 2020;28079;Madrid;3; Retiro;33;Estrella;23354;10765;12589
+1 de enero de 2020;28079;Madrid;3; Retiro;34;Ibiza;21993;9699;12294
+1 de enero de 2020;28079;Madrid;3; Retiro;35;LosJerónimos;7046;3293;3753
+1 de enero de 2020;28079;Madrid;3; Retiro;36;NiñoJesús;15461;6997;8464
+1 de enero de 2020;28079;Madrid;4; Salamanca;41;Recoletos;15846;7132;8714
+1 de enero de 2020;28079;Madrid;4; Salamanca;42;Goya;29945;13012;16933
+1 de enero de 2020;28079;Madrid;4; Salamanca;43;FuentedelBerro;21249;9285;11964
+1 de enero de 2020;28079;Madrid;4; Salamanca;44;Guindalera;42306;19146;23160
+1 de enero de 2020;28079;Madrid;4; Salamanca;45;Lista;21211;9111;12100
+1 de enero de 2020;28079;Madrid;4; Salamanca;46;Castellana;17297;7534;9763
+1 de enero de 2020;28079;Madrid;5; Chamartín;51;ElViso;17433;7843;9590
+1 de enero de 2020;28079;Madrid;5; Chamartín;52;Prosperidad;36940;16509;20431
+1 de enero de 2020;28079;Madrid;5; Chamartín;53;CiudadJardín;18893;8415;10478
+1 de enero de 2020;28079;Madrid;5; Chamartín;54;Hispanoamérica;32042;14388;17654
+1 de enero de 2020;28079;Madrid;5; Chamartín;55;NuevaEspaña;25015;11347;13668
+1 de enero de 2020;28079;Madrid;5; Chamartín;56;Castilla;17228;7922;9306
+1 de enero de 2020;28079;Madrid;6; Tetuán;61;BellasVistas;29895;13646;16249
+1 de enero de 2020;28079;Madrid;6; Tetuán;62;CuatroCaminos;35192;15832;19360
+1 de enero de 2020;28079;Madrid;6; Tetuán;63;Castillejos;20835;9391;11444
+1 de enero de 2020;28079;Madrid;6; Tetuán;64;Almenara;23003;10551;12452
+1 de enero de 2020;28079;Madrid;6; Tetuán;65;Valdeacederas;26545;12346;14199
+1 de enero de 2020;28079;Madrid;6; Tetuán;66;Berruguete;25843;11592;14251
+1 de enero de 2020;28079;Madrid;7; Chamberí;71;Gaztambide;23329;10235;13094
+1 de enero de 2020;28079;Madrid;7; Chamberí;72;Arapiles;24704;11025;13679
+1 de enero de 2020;28079;Madrid;7; Chamberí;73;Trafalgar;25023;11161;13862
+1 de enero de 2020;28079;Madrid;7; Chamberí;74;Almagro;19838;8795;11043
+1 de enero de 2020;28079;Madrid;7; Chamberí;75;RíosRosas;27569;12132;15437
+1 de enero de 2020;28079;Madrid;7; Chamberí;76;Vallehermoso;20403;8788;11615
+1 de enero de 2020;28079;Madrid;8; Fuencarral-El Pardo;81;ElPardo;3472;1724;1748
+1 de enero de 2020;28079;Madrid;8; Fuencarral-El Pardo;82;Fuentelarreina;3308;1500;1808
+1 de enero de 2020;28079;Madrid;8; Fuencarral-El Pardo;83;Peñagrande;44938;20899;24039
+1 de enero de 2020;28079;Madrid;8; Fuencarral-El Pardo;84;Pilar;46855;21379;25476
+1 de enero de 2020;28079;Madrid;8; Fuencarral-El Pardo;85;LaPaz;33644;15754;17890
+1 de enero de 2020;28079;Madrid;8; Fuencarral-El Pardo;86;Valverde;64668;30772;33896
+1 de enero de 2020;28079;Madrid;8; Fuencarral-El Pardo;87;Mirasierra;34046;16222;17824
+1 de enero de 2020;28079;Madrid;8; Fuencarral-El Pardo;88;ElGoloso;19042;9390;9652
+1 de enero de 2020;28079;Madrid;9; Moncloa-Aravaca;91;CasadeCampo;13201;6114;7087
+1 de enero de 2020;28079;Madrid;9; Moncloa-Aravaca;92;Argüelles;24423;11074;13349
+1 de enero de 2020;28079;Madrid;9; Moncloa-Aravaca;93;CiudadUniversitaria;16395;7483;8912
+1 de enero de 2020;28079;Madrid;9; Moncloa-Aravaca;94;Valdezarza;30405;13918;16487
+1 de enero de 2020;28079;Madrid;9; Moncloa-Aravaca;95;Valdemarín;6957;3197;3760
+1 de enero de 2020;28079;Madrid;9; Moncloa-Aravaca;96;ElPlantío;2799;1290;1509
+1 de enero de 2020;28079;Madrid;9; Moncloa-Aravaca;97;Aravaca;27503;12899;14604
+1 de enero de 2020;28079;Madrid;10; Latina;101;LosCármenes;17736;8390;9346
+1 de enero de 2020;28079;Madrid;10; Latina;102;PuertadelÁngel;42362;19529;22833
+1 de enero de 2020;28079;Madrid;10; Latina;103;Lucero;36783;17091;19692
+1 de enero de 2020;28079;Madrid;10; Latina;104;Aluche;67418;30925;36493
+1 de enero de 2020;28079;Madrid;10; Latina;105;Campamento;19848;9216;10632
+1 de enero de 2020;28079;Madrid;10; Latina;106;CuatroVientos;5881;2958;2923
+1 de enero de 2020;28079;Madrid;10; Latina;107;Águilas;52111;24173;27938
+1 de enero de 2020;28079;Madrid;11; Carabanchel;111;Comillas;23001;10566;12435
+1 de enero de 2020;28079;Madrid;11; Carabanchel;112;Opañel;33681;15389;18292
+1 de enero de 2020;28079;Madrid;11; Carabanchel;113;SanIsidro;40023;18710;21313
+1 de enero de 2020;28079;Madrid;11; Carabanchel;114;VistaAlegre;47602;21731;25871
+1 de enero de 2020;28079;Madrid;11; Carabanchel;115;PuertaBonita;35932;16822;19110
+1 de enero de 2020;28079;Madrid;11; Carabanchel;116;Buenavista;48010;23198;24812
+1 de enero de 2020;28079;Madrid;11; Carabanchel;117;Abrantes;31947;14901;17046
+1 de enero de 2020;28079;Madrid;12; Usera;121;Orcasitas;23173;10898;12275
+1 de enero de 2020;28079;Madrid;12; Usera;122;Orcasur;14154;6846;7308
+1 de enero de 2020;28079;Madrid;12; Usera;123;SanFermín;24001;11441;12560
+1 de enero de 2020;28079;Madrid;12; Usera;124;Almendrales;22179;10362;11817
+1 de enero de 2020;28079;Madrid;12; Usera;125;Moscardó;27128;12673;14455
+1 de enero de 2020;28079;Madrid;12; Usera;126;Zofío;14412;6773;7639
+1 de enero de 2020;28079;Madrid;12; Usera;127;Pradolongo;17847;8353;9494
+1 de enero de 2020;28079;Madrid;13; Puente de Vallecas;131;Entrevías;35516;17076;18440
+1 de enero de 2020;28079;Madrid;13; Puente de Vallecas;132;SanDiego;43899;20957;22942
+1 de enero de 2020;28079;Madrid;13; Puente de Vallecas;133;PalomerasBajas;40910;19205;21705
+1 de enero de 2020;28079;Madrid;13; Puente de Vallecas;134;PalomerasSureste;43164;20610;22554
+1 de enero de 2020;28079;Madrid;13; Puente de Vallecas;135;Portazgo;28968;13560;15408
+1 de enero de 2020;28079;Madrid;13; Puente de Vallecas;136;Numancia;48410;22827;25583
+1 de enero de 2020;28079;Madrid;14; Moratalaz;141;Pavones;9355;4274;5081
+1 de enero de 2020;28079;Madrid;14; Moratalaz;142;Horcajo;6435;3074;3361
+1 de enero de 2020;28079;Madrid;14; Moratalaz;143;Marroquina;27232;12595;14637
+1 de enero de 2020;28079;Madrid;14; Moratalaz;144;MediaLegua;17951;8185;9766
+1 de enero de 2020;28079;Madrid;14; Moratalaz;145;Fontarrón;17519;7935;9584
+1 de enero de 2020;28079;Madrid;14; Moratalaz;146;Vinateros;17122;7522;9600
+1 de enero de 2020;28079;Madrid;15; Ciudad Lineal;151;Ventas;48891;21942;26949
+1 de enero de 2020;28079;Madrid;15; Ciudad Lineal;152;PuebloNuevo;63521;29399;34122
+1 de enero de 2020;28079;Madrid;15; Ciudad Lineal;153;Quintana;25151;11120;14031
+1 de enero de 2020;28079;Madrid;15; Ciudad Lineal;154;Concepción;21153;9374;11779
+1 de enero de 2020;28079;Madrid;15; Ciudad Lineal;155;SanPascual;18107;8152;9955
+1 de enero de 2020;28079;Madrid;15; Ciudad Lineal;156;SanJuanBautista;12725;5923;6802
+1 de enero de 2020;28079;Madrid;15; Ciudad Lineal;157;Colina;6519;2938;3581
+1 de enero de 2020;28079;Madrid;15; Ciudad Lineal;158;Atalaya;1555;667;888
+1 de enero de 2020;28079;Madrid;15; Ciudad Lineal;159;Costillares;22245;10451;11794
+1 de enero de 2020;28079;Madrid;16; Hortaleza;161;Palomas;6839;3318;3521
+1 de enero de 2020;28079;Madrid;16; Hortaleza;162;Piovera;14939;7119;7820
+1 de enero de 2020;28079;Madrid;16; Hortaleza;163;Canillas;40838;19028;21810
+1 de enero de 2020;28079;Madrid;16; Hortaleza;164;PinardelRey;53162;24529;28633
+1 de enero de 2020;28079;Madrid;16; Hortaleza;165;ApóstolSantiago;15555;7365;8190
+1 de enero de 2020;28079;Madrid;16; Hortaleza;166;Valdefuentes;61931;30300;31631
+1 de enero de 2020;28079;Madrid;17; Villaverde;171;VillaverdeAlto,CascoHistóricodeVillaverde;46749;22228;24521
+1 de enero de 2020;28079;Madrid;17; Villaverde;172;SanCristóbal;16898;8222;8676
+1 de enero de 2020;28079;Madrid;17; Villaverde;173;Butarque;20026;9704;10322
+1 de enero de 2020;28079;Madrid;17; Villaverde;174;LosRosales;38107;18336;19771
+1 de enero de 2020;28079;Madrid;17; Villaverde;175;Ángeles;32538;15149;17389
+1 de enero de 2020;28079;Madrid;18; Villa de Vallecas;181;CascoHistóricodeVallecas;40956;19656;21300
+1 de enero de 2020;28079;Madrid;18; Villa de Vallecas;182;SantaEugenia;24684;11833;12851
+1 de enero de 2020;28079;Madrid;18; Villa de Vallecas;183;EnsanchedeVallecas;48872;24021;24851
+1 de enero de 2020;28079;Madrid;19; Vicálvaro;191;CascoHistóricodeVicálvaro;35666;17220;18446
+1 de enero de 2020;28079;Madrid;19; Vicálvaro;192;Valdebernardo;17834;8478;9356
+1 de enero de 2020;28079;Madrid;19; Vicálvaro;193;Valderrivas;18150;8867;9283
+1 de enero de 2020;28079;Madrid;19; Vicálvaro;194;ElCañaveral;2398;1230;1168
+1 de enero de 2020;28079;Madrid;20; San Blas-Canillejas;201;Simancas;28698;13574;15124
+1 de enero de 2020;28079;Madrid;20; San Blas-Canillejas;202;Hellín;9342;4260;5082
+1 de enero de 2020;28079;Madrid;20; San Blas-Canillejas;203;Amposta;8874;4108;4766
+1 de enero de 2020;28079;Madrid;20; San Blas-Canillejas;204;Arcos;24692;11612;13080
+1 de enero de 2020;28079;Madrid;20; San Blas-Canillejas;205;Rosas;31794;15253;16541
+1 de enero de 2020;28079;Madrid;20; San Blas-Canillejas;206;Rejas;17299;8395;8904
+1 de enero de 2020;28079;Madrid;20; San Blas-Canillejas;207;Canillejas;29047;13607;15440
+1 de enero de 2020;28079;Madrid;20; San Blas-Canillejas;208;ElSalvador;11476;5443;6033
+1 de enero de 2020;28079;Madrid;21; Barajas;211;AlamedadeOsuna;19820;9533;10287
+1 de enero de 2020;28079;Madrid;21; Barajas;212;Aeropuerto;1900;975;925
+1 de enero de 2020;28079;Madrid;21; Barajas;213;CascoHistóricodeBarajas;7683;3688;3995
+1 de enero de 2020;28079;Madrid;21; Barajas;214;Timón;12853;6151;6702
+1 de enero de 2020;28079;Madrid;21; Barajas;215;Corralejos;7754;3802;3952
+1 de enero de 2020;28079;Madrid;Todos;Todos;Todos;Todos;3334730;1554732;1779998
+1 de enero de 2019;28079;Madrid;1; Centro;1;Centro;134881;67829;67052
+1 de enero de 2019;28079;Madrid;2; Arganzuela;2;Arganzuela;153830;71631;82199
+1 de enero de 2019;28079;Madrid;3; Retiro;3;Retiro;119379;54098;65281
+1 de enero de 2019;28079;Madrid;4; Salamanca;4;Salamanca;146148;64395;81753
+1 de enero de 2019;28079;Madrid;5; Chamartín;5;Chamartín;145865;65565;80300
+1 de enero de 2019;28079;Madrid;6; Tetuán;6;Tetuán;157937;71632;86305
+1 de enero de 2019;28079;Madrid;7; Chamberí;7;Chamberí;139448;61308;78140
+1 de enero de 2019;28079;Madrid;8; Fuencarral-El Pardo;8;Fuencarral-ElPardo;246021;115797;130224
+1 de enero de 2019;28079;Madrid;9; Moncloa-Aravaca;9;Moncloa-Aravaca;119423;54934;64489
+1 de enero de 2019;28079;Madrid;10; Latina;10;Latina;238154;110401;127753
+1 de enero de 2019;28079;Madrid;11; Carabanchel;11;Carabanchel;253040;117802;135238
+1 de enero de 2019;28079;Madrid;12; Usera;12;Usera;139501;65781;73720
+1 de enero de 2019;28079;Madrid;13; Puente de Vallecas;13;PuentedeVallecas;234770;111183;123587
+1 de enero de 2019;28079;Madrid;14; Moratalaz;14;Moratalaz;94609;43209;51400
+1 de enero de 2019;28079;Madrid;15; Ciudad Lineal;15;CiudadLineal;216270;98370;117900
+1 de enero de 2019;28079;Madrid;16; Hortaleza;16;Hortaleza;188267;89307;98960
+1 de enero de 2019;28079;Madrid;17; Villaverde;17;Villaverde;148883;71017;77866
+1 de enero de 2019;28079;Madrid;18; Villa de Vallecas;18;VilladeVallecas;110436;53675;56761
+1 de enero de 2019;28079;Madrid;19; Vicálvaro;19;Vicálvaro;72126;34848;37278
+1 de enero de 2019;28079;Madrid;20; San Blas-Canillejas;20;SanBlas-Canillejas;158166;74743;83423
+1 de enero de 2019;28079;Madrid;21; Barajas;21;Barajas;48972;23653;25319
+1 de enero de 2019;28079;Madrid;1; Centro;11;Palacio;22923;11213;11710
+1 de enero de 2019;28079;Madrid;1; Centro;12;Embajadores;45259;23390;21869
+1 de enero de 2019;28079;Madrid;1; Centro;13;Cortes;10484;5235;5249
+1 de enero de 2019;28079;Madrid;1; Centro;14;Justicia;17153;8675;8478
+1 de enero de 2019;28079;Madrid;1; Centro;15;Universidad;31725;15567;16158
+1 de enero de 2019;28079;Madrid;1; Centro;16;Sol;7337;3749;3588
+1 de enero de 2019;28079;Madrid;2; Arganzuela;21;Imperial;22766;10543;12223
+1 de enero de 2019;28079;Madrid;2; Arganzuela;22;Acacias;36785;16943;19842
+1 de enero de 2019;28079;Madrid;2; Arganzuela;23;Chopera;19993;9064;10929
+1 de enero de 2019;28079;Madrid;2; Arganzuela;24;Legazpi;19652;9629;10023
+1 de enero de 2019;28079;Madrid;2; Arganzuela;25;Delicias;27658;12880;14778
+1 de enero de 2019;28079;Madrid;2; Arganzuela;26;PalosdeMoguer;25801;11999;13802
+1 de enero de 2019;28079;Madrid;2; Arganzuela;27;Atocha;1175;573;602
+1 de enero de 2019;28079;Madrid;3; Retiro;31;Pacífico;33571;14992;18579
+1 de enero de 2019;28079;Madrid;3; Retiro;32;Adelfas;18474;8532;9942
+1 de enero de 2019;28079;Madrid;3; Retiro;33;Estrella;23306;10798;12508
+1 de enero de 2019;28079;Madrid;3; Retiro;34;Ibiza;21646;9517;12129
+1 de enero de 2019;28079;Madrid;3; Retiro;35;LosJerónimos;7039;3285;3754
+1 de enero de 2019;28079;Madrid;3; Retiro;36;NiñoJesús;15343;6974;8369
+1 de enero de 2019;28079;Madrid;4; Salamanca;41;Recoletos;15734;7074;8660
+1 de enero de 2019;28079;Madrid;4; Salamanca;42;Goya;29649;12836;16813
+1 de enero de 2019;28079;Madrid;4; Salamanca;43;FuentedelBerro;21071;9197;11874
+1 de enero de 2019;28079;Madrid;4; Salamanca;44;Guindalera;41609;18809;22800
+1 de enero de 2019;28079;Madrid;4; Salamanca;45;Lista;20961;9040;11921
+1 de enero de 2019;28079;Madrid;4; Salamanca;46;Castellana;17124;7439;9685
+1 de enero de 2019;28079;Madrid;5; Chamartín;51;ElViso;17302;7783;9519
+1 de enero de 2019;28079;Madrid;5; Chamartín;52;Prosperidad;36651;16374;20277
+1 de enero de 2019;28079;Madrid;5; Chamartín;53;CiudadJardín;18642;8233;10409
+1 de enero de 2019;28079;Madrid;5; Chamartín;54;Hispanoamérica;31733;14218;17515
+1 de enero de 2019;28079;Madrid;5; Chamartín;55;NuevaEspaña;24657;11166;13491
+1 de enero de 2019;28079;Madrid;5; Chamartín;56;Castilla;16880;7791;9089
+1 de enero de 2019;28079;Madrid;6; Tetuán;61;BellasVistas;29146;13292;15854
+1 de enero de 2019;28079;Madrid;6; Tetuán;62;CuatroCaminos;34608;15580;19028
+1 de enero de 2019;28079;Madrid;6; Tetuán;63;Castillejos;20513;9201;11312
+1 de enero de 2019;28079;Madrid;6; Tetuán;64;Almenara;22642;10314;12328
+1 de enero de 2019;28079;Madrid;6; Tetuán;65;Valdeacederas;26021;12082;13939
+1 de enero de 2019;28079;Madrid;6; Tetuán;66;Berruguete;25007;11163;13844
+1 de enero de 2019;28079;Madrid;7; Chamberí;71;Gaztambide;22891;10062;12829
+1 de enero de 2019;28079;Madrid;7; Chamberí;72;Arapiles;24455;10888;13567
+1 de enero de 2019;28079;Madrid;7; Chamberí;73;Trafalgar;24696;10958;13738
+1 de enero de 2019;28079;Madrid;7; Chamberí;74;Almagro;19807;8726;11081
+1 de enero de 2019;28079;Madrid;7; Chamberí;75;RíosRosas;27382;11982;15400
+1 de enero de 2019;28079;Madrid;7; Chamberí;76;Vallehermoso;20217;8692;11525
+1 de enero de 2019;28079;Madrid;8; Fuencarral-El Pardo;81;ElPardo;3454;1704;1750
+1 de enero de 2019;28079;Madrid;8; Fuencarral-El Pardo;82;Fuentelarreina;3265;1481;1784
+1 de enero de 2019;28079;Madrid;8; Fuencarral-El Pardo;83;Peñagrande;44508;20743;23765
+1 de enero de 2019;28079;Madrid;8; Fuencarral-El Pardo;84;Pilar;46419;21206;25213
+1 de enero de 2019;28079;Madrid;8; Fuencarral-El Pardo;85;LaPaz;33765;15800;17965
+1 de enero de 2019;28079;Madrid;8; Fuencarral-El Pardo;86;Valverde;63201;30031;33170
+1 de enero de 2019;28079;Madrid;8; Fuencarral-El Pardo;87;Mirasierra;32898;15704;17194
+1 de enero de 2019;28079;Madrid;8; Fuencarral-El Pardo;88;ElGoloso;18511;9128;9383
+1 de enero de 2019;28079;Madrid;9; Moncloa-Aravaca;91;CasadeCampo;12991;5963;7028
+1 de enero de 2019;28079;Madrid;9; Moncloa-Aravaca;92;Argüelles;24093;10907;13186
+1 de enero de 2019;28079;Madrid;9; Moncloa-Aravaca;93;CiudadUniversitaria;16260;7398;8862
+1 de enero de 2019;28079;Madrid;9; Moncloa-Aravaca;94;Valdezarza;29722;13637;16085
+1 de enero de 2019;28079;Madrid;9; Moncloa-Aravaca;95;Valdemarín;6726;3109;3617
+1 de enero de 2019;28079;Madrid;9; Moncloa-Aravaca;96;ElPlantío;2808;1301;1507
+1 de enero de 2019;28079;Madrid;9; Moncloa-Aravaca;97;Aravaca;26823;12619;14204
+1 de enero de 2019;28079;Madrid;10; Latina;101;LosCármenes;17397;8183;9214
+1 de enero de 2019;28079;Madrid;10; Latina;102;PuertadelÁngel;41730;19189;22541
+1 de enero de 2019;28079;Madrid;10; Latina;103;Lucero;36090;16771;19319
+1 de enero de 2019;28079;Madrid;10; Latina;104;Aluche;66351;30451;35900
+1 de enero de 2019;28079;Madrid;10; Latina;105;Campamento;19281;8981;10300
+1 de enero de 2019;28079;Madrid;10; Latina;106;CuatroVientos;5748;2909;2839
+1 de enero de 2019;28079;Madrid;10; Latina;107;Águilas;51557;23917;27640
+1 de enero de 2019;28079;Madrid;11; Carabanchel;111;Comillas;22403;10230;12173
+1 de enero de 2019;28079;Madrid;11; Carabanchel;112;Opañel;33051;15125;17926
+1 de enero de 2019;28079;Madrid;11; Carabanchel;113;SanIsidro;38957;18196;20761
+1 de enero de 2019;28079;Madrid;11; Carabanchel;114;VistaAlegre;45975;20896;25079
+1 de enero de 2019;28079;Madrid;11; Carabanchel;115;PuertaBonita;34860;16318;18542
+1 de enero de 2019;28079;Madrid;11; Carabanchel;116;Buenavista;47055;22737;24318
+1 de enero de 2019;28079;Madrid;11; Carabanchel;117;Abrantes;30739;14300;16439
+1 de enero de 2019;28079;Madrid;12; Usera;121;Orcasitas;22837;10765;12072
+1 de enero de 2019;28079;Madrid;12; Usera;122;Orcasur;13808;6697;7111
+1 de enero de 2019;28079;Madrid;12; Usera;123;SanFermín;23666;11310;12356
+1 de enero de 2019;28079;Madrid;12; Usera;124;Almendrales;21439;10043;11396
+1 de enero de 2019;28079;Madrid;12; Usera;125;Moscardó;26353;12300;14053
+1 de enero de 2019;28079;Madrid;12; Usera;126;Zofío;13968;6509;7459
+1 de enero de 2019;28079;Madrid;12; Usera;127;Pradolongo;17430;8157;9273
+1 de enero de 2019;28079;Madrid;13; Puente de Vallecas;131;Entrevías;34698;16677;18021
+1 de enero de 2019;28079;Madrid;13; Puente de Vallecas;132;SanDiego;41664;19833;21831
+1 de enero de 2019;28079;Madrid;13; Puente de Vallecas;133;PalomerasBajas;40166;18886;21280
+1 de enero de 2019;28079;Madrid;13; Puente de Vallecas;134;PalomerasSureste;42594;20253;22341
+1 de enero de 2019;28079;Madrid;13; Puente de Vallecas;135;Portazgo;28350;13234;15116
+1 de enero de 2019;28079;Madrid;13; Puente de Vallecas;136;Numancia;47298;22300;24998
+1 de enero de 2019;28079;Madrid;14; Moratalaz;141;Pavones;9137;4185;4952
+1 de enero de 2019;28079;Madrid;14; Moratalaz;142;Horcajo;6334;3030;3304
+1 de enero de 2019;28079;Madrid;14; Moratalaz;143;Marroquina;27260;12646;14614
+1 de enero de 2019;28079;Madrid;14; Moratalaz;144;MediaLegua;17871;8166;9705
+1 de enero de 2019;28079;Madrid;14; Moratalaz;145;Fontarrón;17139;7779;9360
+1 de enero de 2019;28079;Madrid;14; Moratalaz;146;Vinateros;16868;7403;9465
+1 de enero de 2019;28079;Madrid;15; Ciudad Lineal;151;Ventas;48099;21619;26480
+1 de enero de 2019;28079;Madrid;15; Ciudad Lineal;152;PuebloNuevo;62111;28830;33281
+1 de enero de 2019;28079;Madrid;15; Ciudad Lineal;153;Quintana;24622;10882;13740
+1 de enero de 2019;28079;Madrid;15; Ciudad Lineal;154;Concepción;20856;9245;11611
+1 de enero de 2019;28079;Madrid;15; Ciudad Lineal;155;SanPascual;18130;8154;9976
+1 de enero de 2019;28079;Madrid;15; Ciudad Lineal;156;SanJuanBautista;12487;5810;6677
+1 de enero de 2019;28079;Madrid;15; Ciudad Lineal;157;Colina;6387;2864;3523
+1 de enero de 2019;28079;Madrid;15; Ciudad Lineal;158;Atalaya;1568;654;914
+1 de enero de 2019;28079;Madrid;15; Ciudad Lineal;159;Costillares;22010;10312;11698
+1 de enero de 2019;28079;Madrid;16; Hortaleza;161;Palomas;6790;3318;3472
+1 de enero de 2019;28079;Madrid;16; Hortaleza;162;Piovera;14911;7155;7756
+1 de enero de 2019;28079;Madrid;16; Hortaleza;163;Canillas;40578;18919;21659
+1 de enero de 2019;28079;Madrid;16; Hortaleza;164;PinardelRey;52691;24277;28414
+1 de enero de 2019;28079;Madrid;16; Hortaleza;165;ApóstolSantiago;15418;7290;8128
+1 de enero de 2019;28079;Madrid;16; Hortaleza;166;Valdefuentes;57879;28348;29531
+1 de enero de 2019;28079;Madrid;17; Villaverde;171;VillaverdeAlto,CascoHistóricodeVillaverde;45204;21488;23716
+1 de enero de 2019;28079;Madrid;17; Villaverde;172;SanCristóbal;16052;7834;8218
+1 de enero de 2019;28079;Madrid;17; Villaverde;173;Butarque;18870;9110;9760
+1 de enero de 2019;28079;Madrid;17; Villaverde;174;LosRosales;37587;18071;19516
+1 de enero de 2019;28079;Madrid;17; Villaverde;175;Ángeles;31170;14514;16656
+1 de enero de 2019;28079;Madrid;18; Villa de Vallecas;181;CascoHistóricodeVallecas;40280;19417;20863
+1 de enero de 2019;28079;Madrid;18; Villa de Vallecas;182;SantaEugenia;24328;11692;12636
+1 de enero de 2019;28079;Madrid;18; Villa de Vallecas;183;EnsanchedeVallecas;45828;22566;23262
+1 de enero de 2019;28079;Madrid;19; Vicálvaro;191;CascoHistóricodeVicálvaro;34816;16781;18035
+1 de enero de 2019;28079;Madrid;19; Vicálvaro;192;Valdebernardo;17638;8388;9250
+1 de enero de 2019;28079;Madrid;19; Vicálvaro;193;Valderrivas;18142;8894;9248
+1 de enero de 2019;28079;Madrid;19; Vicálvaro;194;ElCañaveral;1530;785;745
+1 de enero de 2019;28079;Madrid;20; San Blas-Canillejas;201;Simancas;27918;13142;14776
+1 de enero de 2019;28079;Madrid;20; San Blas-Canillejas;202;Hellín;9157;4181;4976
+1 de enero de 2019;28079;Madrid;20; San Blas-Canillejas;203;Amposta;8575;3968;4607
+1 de enero de 2019;28079;Madrid;20; San Blas-Canillejas;204;Arcos;24211;11327;12884
+1 de enero de 2019;28079;Madrid;20; San Blas-Canillejas;205;Rosas;31677;15213;16464
+1 de enero de 2019;28079;Madrid;20; San Blas-Canillejas;206;Rejas;16693;8142;8551
+1 de enero de 2019;28079;Madrid;20; San Blas-Canillejas;207;Canillejas;28584;13404;15180
+1 de enero de 2019;28079;Madrid;20; San Blas-Canillejas;208;ElSalvador;11351;5366;5985
+1 de enero de 2019;28079;Madrid;21; Barajas;211;AlamedadeOsuna;19526;9391;10135
+1 de enero de 2019;28079;Madrid;21; Barajas;212;Aeropuerto;1851;952;899
+1 de enero de 2019;28079;Madrid;21; Barajas;213;CascoHistóricodeBarajas;7565;3648;3917
+1 de enero de 2019;28079;Madrid;21; Barajas;214;Timón;12388;5916;6472
+1 de enero de 2019;28079;Madrid;21; Barajas;215;Corralejos;7642;3746;3896
+1 de enero de 2019;28079;Madrid;Todos;Todos;Todos;Todos;3266126;1521178;1744948
+1 de enero de 2018;28079;Madrid;1; Centro;1;Centro;132352;66320;66032
+1 de enero de 2018;28079;Madrid;2; Arganzuela;2;Arganzuela;152907;71039;81868
+1 de enero de 2018;28079;Madrid;3; Retiro;3;Retiro;119011;53863;65148
+1 de enero de 2018;28079;Madrid;4; Salamanca;4;Salamanca;145268;63940;81328
+1 de enero de 2018;28079;Madrid;5; Chamartín;5;Chamartín;144894;65144;79750
+1 de enero de 2018;28079;Madrid;6; Tetuán;6;Tetuán;155967;70725;85242
+1 de enero de 2018;28079;Madrid;7; Chamberí;7;Chamberí;138418;60825;77593
+1 de enero de 2018;28079;Madrid;8; Fuencarral-El Pardo;8;Fuencarral-ElPardo;242928;114433;128495
+1 de enero de 2018;28079;Madrid;9; Moncloa-Aravaca;9;Moncloa-Aravaca;117835;54243;63592
+1 de enero de 2018;28079;Madrid;10; Latina;10;Latina;235785;109392;126393
+1 de enero de 2018;28079;Madrid;11; Carabanchel;11;Carabanchel;248220;115525;132695
+1 de enero de 2018;28079;Madrid;12; Usera;12;Usera;136978;64582;72396
+1 de enero de 2018;28079;Madrid;13; Puente de Vallecas;13;PuentedeVallecas;230488;109044;121444
+1 de enero de 2018;28079;Madrid;14; Moratalaz;14;Moratalaz;94261;43203;51058
+1 de enero de 2018;28079;Madrid;15; Ciudad Lineal;15;CiudadLineal;214463;97301;117162
+1 de enero de 2018;28079;Madrid;16; Hortaleza;16;Hortaleza;183930;87338;96592
+1 de enero de 2018;28079;Madrid;17; Villaverde;17;Villaverde;145523;69552;75971
+1 de enero de 2018;28079;Madrid;18; Villa de Vallecas;18;VilladeVallecas;107649;52352;55297
+1 de enero de 2018;28079;Madrid;19; Vicálvaro;19;Vicálvaro;70962;34461;36501
+1 de enero de 2018;28079;Madrid;20; San Blas-Canillejas;20;SanBlas-Canillejas;156149;73922;82227
+1 de enero de 2018;28079;Madrid;21; Barajas;21;Barajas;47836;23136;24700
+1 de enero de 2018;28079;Madrid;1; Centro;11;Palacio;22515;10978;11537
+1 de enero de 2018;28079;Madrid;1; Centro;12;Embajadores;44630;23031;21599
+1 de enero de 2018;28079;Madrid;1; Centro;13;Cortes;10531;5265;5266
+1 de enero de 2018;28079;Madrid;1; Centro;14;Justicia;16578;8334;8244
+1 de enero de 2018;28079;Madrid;1; Centro;15;Universidad;30897;15040;15857
+1 de enero de 2018;28079;Madrid;1; Centro;16;Sol;7201;3672;3529
+1 de enero de 2018;28079;Madrid;2; Arganzuela;21;Imperial;22719;10531;12188
+1 de enero de 2018;28079;Madrid;2; Arganzuela;22;Acacias;36751;16926;19825
+1 de enero de 2018;28079;Madrid;2; Arganzuela;23;Chopera;19799;8919;10880
+1 de enero de 2018;28079;Madrid;2; Arganzuela;24;Legazpi;19252;9446;9806
+1 de enero de 2018;28079;Madrid;2; Arganzuela;25;Delicias;27473;12736;14737
+1 de enero de 2018;28079;Madrid;2; Arganzuela;26;PalosdeMoguer;25748;11919;13829
+1 de enero de 2018;28079;Madrid;2; Arganzuela;27;Atocha;1165;562;603
+1 de enero de 2018;28079;Madrid;3; Retiro;31;Pacífico;33601;15000;18601
+1 de enero de 2018;28079;Madrid;3; Retiro;32;Adelfas;18345;8427;9918
+1 de enero de 2018;28079;Madrid;3; Retiro;33;Estrella;23238;10796;12442
+1 de enero de 2018;28079;Madrid;3; Retiro;34;Ibiza;21472;9384;12088
+1 de enero de 2018;28079;Madrid;3; Retiro;35;LosJerónimos;7075;3315;3760
+1 de enero de 2018;28079;Madrid;3; Retiro;36;NiñoJesús;15280;6941;8339
+1 de enero de 2018;28079;Madrid;4; Salamanca;41;Recoletos;15756;7091;8665
+1 de enero de 2018;28079;Madrid;4; Salamanca;42;Goya;29604;12812;16792
+1 de enero de 2018;28079;Madrid;4; Salamanca;43;FuentedelBerro;20747;9043;11704
+1 de enero de 2018;28079;Madrid;4; Salamanca;44;Guindalera;41259;18570;22689
+1 de enero de 2018;28079;Madrid;4; Salamanca;45;Lista;20956;9023;11933
+1 de enero de 2018;28079;Madrid;4; Salamanca;46;Castellana;16946;7401;9545
+1 de enero de 2018;28079;Madrid;5; Chamartín;51;ElViso;17145;7764;9381
+1 de enero de 2018;28079;Madrid;5; Chamartín;52;Prosperidad;36522;16302;20220
+1 de enero de 2018;28079;Madrid;5; Chamartín;53;CiudadJardín;18487;8146;10341
+1 de enero de 2018;28079;Madrid;5; Chamartín;54;Hispanoamérica;31373;14006;17367
+1 de enero de 2018;28079;Madrid;5; Chamartín;55;NuevaEspaña;24496;11124;13372
+1 de enero de 2018;28079;Madrid;5; Chamartín;56;Castilla;16871;7802;9069
+1 de enero de 2018;28079;Madrid;6; Tetuán;61;BellasVistas;28750;13056;15694
+1 de enero de 2018;28079;Madrid;6; Tetuán;62;CuatroCaminos;34254;15458;18796
+1 de enero de 2018;28079;Madrid;6; Tetuán;63;Castillejos;20363;9209;11154
+1 de enero de 2018;28079;Madrid;6; Tetuán;64;Almenara;22421;10209;12212
+1 de enero de 2018;28079;Madrid;6; Tetuán;65;Valdeacederas;25571;11835;13736
+1 de enero de 2018;28079;Madrid;6; Tetuán;66;Berruguete;24608;10958;13650
+1 de enero de 2018;28079;Madrid;7; Chamberí;71;Gaztambide;22666;9929;12737
+1 de enero de 2018;28079;Madrid;7; Chamberí;72;Arapiles;24335;10792;13543
+1 de enero de 2018;28079;Madrid;7; Chamberí;73;Trafalgar;24523;10922;13601
+1 de enero de 2018;28079;Madrid;7; Chamberí;74;Almagro;19799;8737;11062
+1 de enero de 2018;28079;Madrid;7; Chamberí;75;RíosRosas;27049;11820;15229
+1 de enero de 2018;28079;Madrid;7; Chamberí;76;Vallehermoso;20046;8625;11421
+1 de enero de 2018;28079;Madrid;8; Fuencarral-El Pardo;81;ElPardo;3456;1689;1767
+1 de enero de 2018;28079;Madrid;8; Fuencarral-El Pardo;82;Fuentelarreina;3234;1437;1797
+1 de enero de 2018;28079;Madrid;8; Fuencarral-El Pardo;83;Peñagrande;44412;20719;23693
+1 de enero de 2018;28079;Madrid;8; Fuencarral-El Pardo;84;Pilar;46094;21107;24987
+1 de enero de 2018;28079;Madrid;8; Fuencarral-El Pardo;85;LaPaz;33783;15826;17957
+1 de enero de 2018;28079;Madrid;8; Fuencarral-El Pardo;86;Valverde;61941;29476;32465
+1 de enero de 2018;28079;Madrid;8; Fuencarral-El Pardo;87;Mirasierra;32058;15329;16729
+1 de enero de 2018;28079;Madrid;8; Fuencarral-El Pardo;88;ElGoloso;17950;8850;9100
+1 de enero de 2018;28079;Madrid;9; Moncloa-Aravaca;91;CasadeCampo;12900;5935;6965
+1 de enero de 2018;28079;Madrid;9; Moncloa-Aravaca;92;Argüelles;23992;10890;13102
+1 de enero de 2018;28079;Madrid;9; Moncloa-Aravaca;93;CiudadUniversitaria;16097;7314;8783
+1 de enero de 2018;28079;Madrid;9; Moncloa-Aravaca;94;Valdezarza;29418;13458;15960
+1 de enero de 2018;28079;Madrid;9; Moncloa-Aravaca;95;Valdemarín;6560;3018;3542
+1 de enero de 2018;28079;Madrid;9; Moncloa-Aravaca;96;ElPlantío;2720;1287;1433
+1 de enero de 2018;28079;Madrid;9; Moncloa-Aravaca;97;Aravaca;26148;12341;13807
+1 de enero de 2018;28079;Madrid;10; Latina;101;LosCármenes;17192;8102;9090
+1 de enero de 2018;28079;Madrid;10; Latina;102;PuertadelÁngel;41397;19061;22336
+1 de enero de 2018;28079;Madrid;10; Latina;103;Lucero;35488;16491;18997
+1 de enero de 2018;28079;Madrid;10; Latina;104;Aluche;65961;30254;35707
+1 de enero de 2018;28079;Madrid;10; Latina;105;Campamento;18983;8828;10155
+1 de enero de 2018;28079;Madrid;10; Latina;106;CuatroVientos;5662;2870;2792
+1 de enero de 2018;28079;Madrid;10; Latina;107;Águilas;51102;23786;27316
+1 de enero de 2018;28079;Madrid;11; Carabanchel;111;Comillas;22248;10164;12084
+1 de enero de 2018;28079;Madrid;11; Carabanchel;112;Opañel;32492;14796;17696
+1 de enero de 2018;28079;Madrid;11; Carabanchel;113;SanIsidro;38554;17967;20587
+1 de enero de 2018;28079;Madrid;11; Carabanchel;114;VistaAlegre;45008;20480;24528
+1 de enero de 2018;28079;Madrid;11; Carabanchel;115;PuertaBonita;33933;15942;17991
+1 de enero de 2018;28079;Madrid;11; Carabanchel;116;Buenavista;46216;22332;23884
+1 de enero de 2018;28079;Madrid;11; Carabanchel;117;Abrantes;29769;13844;15925
+1 de enero de 2018;28079;Madrid;12; Usera;121;Orcasitas;22555;10634;11921
+1 de enero de 2018;28079;Madrid;12; Usera;122;Orcasur;13572;6576;6996
+1 de enero de 2018;28079;Madrid;12; Usera;123;SanFermín;23209;11111;12098
+1 de enero de 2018;28079;Madrid;12; Usera;124;Almendrales;20986;9824;11162
+1 de enero de 2018;28079;Madrid;12; Usera;125;Moscardó;25726;11971;13755
+1 de enero de 2018;28079;Madrid;12; Usera;126;Zofío;13697;6371;7326
+1 de enero de 2018;28079;Madrid;12; Usera;127;Pradolongo;17233;8095;9138
+1 de enero de 2018;28079;Madrid;13; Puente de Vallecas;131;Entrevías;33986;16314;17672
+1 de enero de 2018;28079;Madrid;13; Puente de Vallecas;132;SanDiego;40267;19037;21230
+1 de enero de 2018;28079;Madrid;13; Puente de Vallecas;133;PalomerasBajas;39669;18614;21055
+1 de enero de 2018;28079;Madrid;13; Puente de Vallecas;134;PalomerasSureste;42120;20115;22005
+1 de enero de 2018;28079;Madrid;13; Puente de Vallecas;135;Portazgo;27908;13033;14875
+1 de enero de 2018;28079;Madrid;13; Puente de Vallecas;136;Numancia;46538;21931;24607
+1 de enero de 2018;28079;Madrid;14; Moratalaz;141;Pavones;9081;4174;4907
+1 de enero de 2018;28079;Madrid;14; Moratalaz;142;Horcajo;6326;3031;3295
+1 de enero de 2018;28079;Madrid;14; Moratalaz;143;Marroquina;27378;12742;14636
+1 de enero de 2018;28079;Madrid;14; Moratalaz;144;MediaLegua;17757;8090;9667
+1 de enero de 2018;28079;Madrid;14; Moratalaz;145;Fontarrón;16902;7730;9172
+1 de enero de 2018;28079;Madrid;14; Moratalaz;146;Vinateros;16817;7436;9381
+1 de enero de 2018;28079;Madrid;15; Ciudad Lineal;151;Ventas;47744;21405;26339
+1 de enero de 2018;28079;Madrid;15; Ciudad Lineal;152;PuebloNuevo;61160;28300;32860
+1 de enero de 2018;28079;Madrid;15; Ciudad Lineal;153;Quintana;24373;10743;13630
+1 de enero de 2018;28079;Madrid;15; Ciudad Lineal;154;Concepción;20803;9181;11622
+1 de enero de 2018;28079;Madrid;15; Ciudad Lineal;155;SanPascual;18068;8100;9968
+1 de enero de 2018;28079;Madrid;15; Ciudad Lineal;156;SanJuanBautista;12433;5782;6651
+1 de enero de 2018;28079;Madrid;15; Ciudad Lineal;157;Colina;6288;2835;3453
+1 de enero de 2018;28079;Madrid;15; Ciudad Lineal;158;Atalaya;1575;656;919
+1 de enero de 2018;28079;Madrid;15; Ciudad Lineal;159;Costillares;22019;10299;11720
+1 de enero de 2018;28079;Madrid;16; Hortaleza;161;Palomas;6738;3292;3446
+1 de enero de 2018;28079;Madrid;16; Hortaleza;162;Piovera;14723;7042;7681
+1 de enero de 2018;28079;Madrid;16; Hortaleza;163;Canillas;40627;18933;21694
+1 de enero de 2018;28079;Madrid;16; Hortaleza;164;PinardelRey;52274;24119;28155
+1 de enero de 2018;28079;Madrid;16; Hortaleza;165;ApóstolSantiago;15271;7250;8021
+1 de enero de 2018;28079;Madrid;16; Hortaleza;166;Valdefuentes;54297;26702;27595
+1 de enero de 2018;28079;Madrid;17; Villaverde;171;VillaverdeAlto,CascoHistóricodeVillaverde;44299;21139;23160
+1 de enero de 2018;28079;Madrid;17; Villaverde;172;SanCristóbal;15498;7527;7971
+1 de enero de 2018;28079;Madrid;17; Villaverde;173;Butarque;18268;8859;9409
+1 de enero de 2018;28079;Madrid;17; Villaverde;174;LosRosales;36975;17874;19101
+1 de enero de 2018;28079;Madrid;17; Villaverde;175;Ángeles;30483;14153;16330
+1 de enero de 2018;28079;Madrid;18; Villa de Vallecas;181;CascoHistóricodeVallecas;39740;19128;20612
+1 de enero de 2018;28079;Madrid;18; Villa de Vallecas;182;SantaEugenia;24295;11672;12623
+1 de enero de 2018;28079;Madrid;18; Villa de Vallecas;183;EnsanchedeVallecas;43614;21552;22062
+1 de enero de 2018;28079;Madrid;19; Vicálvaro;191;CascoHistóricodeVicálvaro;34200;16585;17615
+1 de enero de 2018;28079;Madrid;19; Vicálvaro;192;Valdebernardo;17637;8434;9203
+1 de enero de 2018;28079;Madrid;19; Vicálvaro;193;Valderrivas;18180;8952;9228
+1 de enero de 2018;28079;Madrid;19; Vicálvaro;194;ElCañaveral;945;490;455
+1 de enero de 2018;28079;Madrid;20; San Blas-Canillejas;201;Simancas;27242;12851;14391
+1 de enero de 2018;28079;Madrid;20; San Blas-Canillejas;202;Hellín;8941;4093;4848
+1 de enero de 2018;28079;Madrid;20; San Blas-Canillejas;203;Amposta;8346;3851;4495
+1 de enero de 2018;28079;Madrid;20; San Blas-Canillejas;204;Arcos;23939;11203;12736
+1 de enero de 2018;28079;Madrid;20; San Blas-Canillejas;205;Rosas;31560;15197;16363
+1 de enero de 2018;28079;Madrid;20; San Blas-Canillejas;206;Rejas;16315;8008;8307
+1 de enero de 2018;28079;Madrid;20; San Blas-Canillejas;207;Canillejas;28519;13371;15148
+1 de enero de 2018;28079;Madrid;20; San Blas-Canillejas;208;ElSalvador;11287;5348;5939
+1 de enero de 2018;28079;Madrid;21; Barajas;211;AlamedadeOsuna;19446;9356;10090
+1 de enero de 2018;28079;Madrid;21; Barajas;212;Aeropuerto;1794;922;872
+1 de enero de 2018;28079;Madrid;21; Barajas;213;CascoHistóricodeBarajas;7336;3550;3786
+1 de enero de 2018;28079;Madrid;21; Barajas;214;Timón;11750;5651;6099
+1 de enero de 2018;28079;Madrid;21; Barajas;215;Corralejos;7510;3657;3853
+1 de enero de 2018;28079;Madrid;Todos;Todos;Todos;Todos;3221824;1500340;1721484
